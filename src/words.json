@@ -1,0 +1,4829 @@
+{
+  "Alpaca": [
+    "South America",
+    "Camel",
+    "Llama",
+    "Wool"
+  ],
+  "Amazon duck": [
+    "South America",
+    "Donald Duck",
+    "bird",
+    "chicken"
+  ],
+  "Anemonefish": [
+    "shark",
+    "sea",
+    "coral"
+  ],
+  "Anteater": [
+    "forest",
+    "tongue",
+    "long"
+  ],
+  "Antelope": [
+    "hop",
+    "safari",
+    "lion"
+  ],
+  "Arctic wolf": [
+    "dog",
+    "howl",
+    "moon",
+    "ice"
+  ],
+  "Asian elephant": [
+    "dumbo",
+    "Africa",
+    "Asia",
+    "trunk"
+  ],
+  "Badger": [
+    "forest",
+    "marten",
+    "carnivore",
+    "predator"
+  ],
+  "Bahama duck": [
+    "Caribbean",
+    "bird",
+    "Donald Duck",
+    "chicken"
+  ],
+  "Bar-headed goose": [
+    "zebra",
+    "fox",
+    "bird",
+    "swan"
+  ],
+  "Bat": [
+    "ultrasonic",
+    "vampire",
+    "night",
+    "fly"
+  ],
+  "Bear": [
+    "grizzly",
+    "teddy",
+    "ted",
+    "honey",
+    "pooh"
+  ],
+  "Bengal Tiger": [
+    "King",
+    "Striped",
+    "Lion"
+  ],
+  "Bison": [
+    "cattle",
+    "bison",
+    "steppe",
+    "America"
+  ],
+  "Bonobo": [
+    "monkey",
+    "chimpanzee",
+    "baboon",
+    "primate"
+  ],
+  "Brewer's duck": [
+    "Donald Duck",
+    "birds",
+    "water",
+    "swan"
+  ],
+  "Butterfly": [
+    "wings",
+    "flowers",
+    "colorful",
+    "meadow"
+  ],
+  "Cat": [
+    "pet",
+    "dog",
+    "meow",
+    "scratch",
+    "claws"
+  ],
+  "Cheetah": [
+    "fast",
+    "mp\/H",
+    "lion",
+    "Africa",
+    "savannah"
+  ],
+  "Chicken goose": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs"
+  ],
+  "Chicken": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs"
+  ],
+  "Chihuahua": [
+    "Paris Hilton",
+    "dog",
+    "small",
+    "foot horn"
+  ],
+  "Chimpanzee": [
+    "monkey",
+    "human",
+    "intelligent",
+    "primate",
+    "orangutan"
+  ],
+  "Chinchilla": [
+    "small",
+    "mouse",
+    "rat",
+    "America"
+  ],
+  "Coati": [
+    "tree",
+    "climbing",
+    "america"
+  ],
+  "Cow": [
+    "stable",
+    "milk",
+    "udder",
+    "milking",
+    "straw"
+  ],
+  "Crocodile": [
+    "water",
+    "alligator"
+  ],
+  "Dog": [
+    "shepherd",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Dolphin": [
+    "whale",
+    "sea",
+    "intelligent",
+    "porpoise"
+  ],
+  "Dwarf donkey": [
+    "Eeyore",
+    "horse",
+    "stupid",
+    "stubborn"
+  ],
+  "Dwarf Otter": [
+    "marten",
+    "dam",
+    "wood",
+    "water"
+  ],
+  "Dwarf penguin": [
+    "south pole",
+    "arctic",
+    "black",
+    "white"
+  ],
+  "Eagle owl": [
+    "glue",
+    "cautz",
+    "owl",
+    "Harry Potter"
+  ],
+  "Electric eel": [
+    "fish",
+    "water",
+    "river",
+    "long",
+    "electricity"
+  ],
+  "Elephant": [
+    "africa",
+    "india",
+    "trunk",
+    "grey",
+    "huge",
+    "mice"
+  ],
+  "Emperor penguin": [
+    "south pole",
+    "arctic",
+    "yellow",
+    "black",
+    "white"
+  ],
+  "Emu": [
+    "bird",
+    "ostrich",
+    "Australia"
+  ],
+  "Ferret": [
+    "marten",
+    "car",
+    "cable",
+    "lltis"
+  ],
+  "Ferruginous Duck": [
+    "chicken",
+    "swamp"
+  ],
+  "Fish": [
+    "water",
+    "swim",
+    "gills",
+    "whale",
+    "salmon",
+    "fishing"
+  ],
+  "Flamingo": [
+    "pink",
+    "bird"
+  ],
+  "Fox": [
+    "red",
+    "fur",
+    "city",
+    "goose"
+  ],
+  "Frog": [
+    "croak",
+    "water",
+    "toad"
+  ],
+  "Giraffe": [
+    "neck",
+    "long",
+    "elephant",
+    "savannah",
+    "Africa"
+  ],
+  "Goat": [
+    "milk",
+    "stable",
+    "mountain",
+    "horns"
+  ],
+  "Gorilla": [
+    "monkey",
+    "chimpanzee",
+    "gray",
+    "roar",
+    "chest"
+  ],
+  "Grey goose": [
+    "fox",
+    "bird",
+    "swan"
+  ],
+  "Grey parrot": [
+    "colorful",
+    "bird"
+  ],
+  "Grizzly": [
+    "brown",
+    "kodiak",
+    "predator",
+    "north america"
+  ],
+  "Guinea Pig": [
+    "Mouse",
+    "pet",
+    "small",
+    "squeak"
+  ],
+  "Hedgehog": [
+    "spines",
+    "small",
+    "city"
+  ],
+  "Hippopotamus": [
+    "hippopotamus",
+    "water",
+    "giant",
+    "rhino"
+  ],
+  "Horse": [
+    "riding",
+    "saddle",
+    "cow",
+    "trotting race"
+  ],
+  "House donkey": [
+    "Eeyore",
+    "horse",
+    "stupid",
+    "stubborn",
+    "gray"
+  ],
+  "Hyena": [
+    "africa",
+    "savannah",
+    "sneaky"
+  ],
+  "Ice fox": [
+    "white",
+    "summer"
+  ],
+  "Jaguar": [
+    "car brand",
+    "cheetah",
+    "lion",
+    "savannah",
+    "africa"
+  ],
+  "Jellyfish": [
+    "transparent",
+    "water",
+    "sea",
+    "nettles"
+  ],
+  "Kangaroo": [
+    "hopping",
+    "boxing",
+    "Australia",
+    "pouch"
+  ],
+  "King python": [
+    "snake",
+    "big",
+    "snares"
+  ],
+  "Koala": [
+    "Australia",
+    "Eucalyptus",
+    "Tree"
+  ],
+  "Leopard": [
+    "cheetah",
+    "cat",
+    "predator"
+  ],
+  "Lion": [
+    "king",
+    "tiger",
+    "cheetah",
+    "Africa",
+    "savannah"
+  ],
+  "Llama": [
+    "spitting",
+    "south america",
+    "guanaco"
+  ],
+  "Maine Coon": [
+    "cat",
+    "fur",
+    "fluff",
+    "claws",
+    "meow"
+  ],
+  "Mandrill": [
+    "primate",
+    "monkey",
+    "butt",
+    "gorilla"
+  ],
+  "Meerkat": [
+    "burrows",
+    "ground",
+    "dig",
+    "stand"
+  ],
+  "Mouse": [
+    "rodent",
+    "rat",
+    "small"
+  ],
+  "Musk ox": [
+    "scent",
+    "perfume",
+    "cattle",
+    "bull"
+  ],
+  "Orangutan": [
+    "orange",
+    "monkey",
+    "primate",
+    "chimpanzee"
+  ],
+  "Otter": [
+    "water",
+    "dam",
+    "wood"
+  ],
+  "Ox": [
+    "cow",
+    "bull",
+    "ring",
+    "nose"
+  ],
+  "Panda": [
+    "black",
+    "white",
+    "clumsy",
+    "China",
+    "bear"
+  ],
+  "Parrot": [
+    "colorful",
+    "red",
+    "bird",
+    "beak"
+  ],
+  "Penguin": [
+    "south pole",
+    "arctic",
+    "yellow",
+    "black",
+    "white"
+  ],
+  "Polar bear": [
+    "grizzly",
+    "teddy",
+    "white",
+    "north pole",
+    "pooh"
+  ],
+  "Rabbit": [
+    "Pet",
+    "Bunny",
+    "Lout",
+    ""
+  ],
+  "Raccoon": [
+    "teddy",
+    "grizzly",
+    "garbage can"
+  ],
+  "Red fox": [
+    "fur",
+    "city",
+    "goose"
+  ],
+  "Reindeer": [
+    "santa claus",
+    "rudolf",
+    "nose",
+    "red",
+    "deer"
+  ],
+  "Rhino": [
+    "hippopotamus",
+    "elephant",
+    "Africa",
+    "savannah"
+  ],
+  "Rock pigeon": [
+    "flying rat",
+    "rock",
+    "gray",
+    "cooing"
+  ],
+  "Royal tiger": [
+    "lion",
+    "big cat"
+  ],
+  "Seahorse": [
+    "water",
+    "sea",
+    "small",
+    "saddle"
+  ],
+  "Seal": [
+    "tricks",
+    "balancing",
+    "water",
+    "sea",
+    "cat"
+  ],
+  "Shark": [
+    "water",
+    "teeth",
+    "surfer",
+    "tornado"
+  ],
+  "Sheepdog": [
+    "police",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Snail": [
+    "slime",
+    "house",
+    "small",
+    "slow"
+  ],
+  "Snow leopard": [
+    "white",
+    "mountain",
+    "cheetah"
+  ],
+  "Snowy owl": [
+    "white",
+    "eagle owl",
+    "head",
+    "bird"
+  ],
+  "Spectacled bear": [
+    "Fielmann",
+    "Grizzly",
+    "America"
+  ],
+  "Spectacled penguin": [
+    "Arctic",
+    "South Pole"
+  ],
+  "Spider": [
+    "web",
+    "fly",
+    "legs",
+    "cellar"
+  ],
+  "Squirrel": [
+    "Forest",
+    "tree",
+    "nuts",
+    "hibernate",
+    "brown"
+  ],
+  "Stone chicken": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs",
+    "gray"
+  ],
+  "Sturgeon catfish": [
+    "fish",
+    "gills"
+  ],
+  "Tank rhinoceros": [
+    "hippopotamus",
+    "elephant",
+    "africa",
+    "savannah",
+    "war"
+  ],
+  "Toad": [
+    "frog",
+    "croak"
+  ],
+  "Walrus": [
+    "water",
+    "horse",
+    "sea",
+    "tusks"
+  ],
+  "Wasp": [
+    "bee",
+    "honey",
+    "sting",
+    "black",
+    "yellow"
+  ],
+  "White rhino": [
+    "mouth",
+    "high",
+    "Africa",
+    "savannah"
+  ],
+  "Wild dog": [
+    "shepherd",
+    "cat",
+    "forest"
+  ],
+  "Wolf": [
+    "wild",
+    "dog",
+    "howl",
+    "moon",
+    "pack"
+  ],
+  "Yak": [
+    "cow",
+    "horns",
+    "asia",
+    "cow"
+  ],
+  "Zebra": [
+    "strip",
+    "elephant",
+    "giraffe",
+    "black",
+    "white",
+    "africa"
+  ],
+  "Alfa Romeo": [
+    "Italy",
+    "Turin",
+    "Fiat"
+  ],
+  "BMW Alpina": [
+    "Germany",
+    "tuning",
+    "motorsport",
+    "Bavaria"
+  ],
+  "Aston Martin": [
+    "007",
+    "James Bond",
+    "England",
+    "sports car",
+    "luxury"
+  ],
+  "Audi": [
+    "Germany",
+    "Ingolstadt",
+    "rings",
+    "Volkswagen"
+  ],
+  "Bentley": [
+    "luxury",
+    "England",
+    "Rolls-Royce"
+  ],
+  "BMW": [
+    "Germany",
+    "Mercedes Benz"
+  ],
+  "Bugatti": [
+    "luxury",
+    "sports car",
+    "Volkswagen",
+    "France"
+  ],
+  "Buick": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Cadillac": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Chevrolet": [
+    "America",
+    "United States",
+    "General Motors",
+    "Camaro",
+    "Transformers"
+  ],
+  "Chrysler": [
+    "America",
+    "United States",
+    "Dodge"
+  ],
+  "Citroën": [
+    "France",
+    "Peugeot",
+    "small cars"
+  ],
+  "Corvette": [
+    "America",
+    "United States",
+    "sports car"
+  ],
+  "Dacia": [
+    "Romania",
+    "small cars",
+    "cheap",
+    "Duster"
+  ],
+  "Daewoo": [
+    "South Korea",
+    "small cars",
+    "General Motors"
+  ],
+  "DAF": [
+    "trucks",
+    "big rig",
+    "Netherlands",
+    "cargo"
+  ],
+  "Daihatsu": [
+    "Japan",
+    "Toyota",
+    "small cars"
+  ],
+  "De Lorean": [
+    "time machine",
+    "GMC",
+    "Back to the Future",
+    "Marty McFly"
+  ],
+  "De Tomaso": [
+    "Italy",
+    "sports car"
+  ],
+  "Dodge": [
+    "Viper",
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Ferrari": [
+    "Italy",
+    "red",
+    "sports car",
+    "luxury",
+    "Michael Schumacher",
+    "Enzo"
+  ],
+  "Fiat": [
+    "Turin",
+    "Italy"
+  ],
+  "Ford": [
+    "America",
+    "United States",
+    "Henry",
+    "F-150",
+    "assembly line"
+  ],
+  "GAZ": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "GMC": [
+    "General Motors",
+    "United States",
+    "multicorporate enterprise"
+  ],
+  "Holden": [
+    "Australia",
+    "General Motors"
+  ],
+  "Honda": [
+    "Japan",
+    "Mitsubishi",
+    "Civic"
+  ],
+  "Hummer": [
+    "Army",
+    "United States",
+    "America"
+  ],
+  "Hyundai": [
+    "South Korea"
+  ],
+  "Infiniti": [
+    "Nissan",
+    "Japan",
+    "luxury"
+  ],
+  "Isuzu": [
+    "Japan",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Iveco": [
+    "Italy",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Jeep": [
+    "Chrysler",
+    "Army",
+    "America",
+    "United States"
+  ],
+  "Kia": [
+    "South Korea",
+    "Hyundai"
+  ],
+  "Königsegg": [
+    "Sweden",
+    "luxury",
+    "sports car"
+  ],
+  "Lada": [
+    "Russia",
+    "small cars"
+  ],
+  "Lamborghini": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "Volkswagen"
+  ],
+  "Lancia": [
+    "Italy",
+    "small cars",
+    "Fiat"
+  ],
+  "Land Rover": [
+    "England",
+    "Scotland",
+    "Jaguar",
+    "Jeep",
+    "AWD"
+  ],
+  "Lexus": [
+    "Toyota",
+    "luxury",
+    "Japan"
+  ],
+  "Lincoln": [
+    "America",
+    "United States",
+    "Ford",
+    "luxury"
+  ],
+  "Lotus": [
+    "England",
+    "sports car"
+  ],
+  "Maserati": [
+    "Italy",
+    "Fiat",
+    "sports car",
+    "luxury"
+  ],
+  "Maybach": [
+    "Germany",
+    "Mercedes",
+    "luxury"
+  ],
+  "Mazda": [
+    "Japan",
+    "Hiroshima"
+  ],
+  "McLaren": [
+    "England",
+    "luxury",
+    "sports car",
+    "luxury"
+  ],
+  "Mercedes-AMG": [
+    "Germany",
+    "luxury",
+    "tuning"
+  ],
+  "Mercedes-Benz": [
+    "Germany",
+    "Daimler",
+    "Chrysler"
+  ],
+  "MG": [
+    "England"
+  ],
+  "Mini": [
+    "Germany",
+    "England",
+    "BMW",
+    "small",
+    "Mr Bean"
+  ],
+  "Mitsubishi": [
+    "Japan",
+    "Lancer",
+    "Rally"
+  ],
+  "Morgan": [
+    "sports car",
+    "England"
+  ],
+  "Moskwitsch": [
+    "Russia",
+    "Sowjet",
+    "DDR"
+  ],
+  "Nissan": [
+    "Japan",
+    "Skyline",
+    "Datsun"
+  ],
+  "Oldsmobile": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Opel": [
+    "Germany",
+    "Rüsselsheim",
+    "Vauxhall"
+  ],
+  "Pagani": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "expensive"
+  ],
+  "Peugeot": [
+    "France",
+    "bicycles",
+    "motorcycle"
+  ],
+  "Piaggio": [
+    "Italy",
+    "motorcycles",
+    "moped",
+    "Vespa"
+  ],
+  "Plymouth": [
+    "United States",
+    "Chrysler"
+  ],
+  "Polaris": [
+    "America",
+    "United States",
+    "quads",
+    "snow mobile"
+  ],
+  "Pontiac": [
+    "General Motors",
+    "United States",
+    "America"
+  ],
+  "Porsche": [
+    "Germany",
+    "Stuttgart",
+    "911",
+    "Volkswagen"
+  ],
+  "Renault": [
+    "France",
+    "small cars",
+    "Nissan"
+  ],
+  "Rolls Royce": [
+    "England",
+    "Queen",
+    "luxury",
+    "limousine"
+  ],
+  "Rover": [
+    "England",
+    "Tata",
+    "small cars",
+    "BWM"
+  ],
+  "Saab": [
+    "Sweden",
+    "Scania",
+    "Stockholm"
+  ],
+  "Seat": [
+    "Spanien",
+    "small cars",
+    "Volkswagen"
+  ],
+  "Scania": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Skoda": [
+    "Tschechien",
+    "Volkswagen",
+    "small cars"
+  ],
+  "Smart": [
+    "Germany",
+    "small",
+    "parking space",
+    "Mercedes",
+    "Daimler"
+  ],
+  "Subaru": [
+    "Japan",
+    "Impereza",
+    "Rally"
+  ],
+  "Suzuki": [
+    "Japan",
+    "motorbikes",
+    "Honda"
+  ],
+  "Tesla": [
+    "Elon Musk",
+    "United States",
+    "electric",
+    "sexy"
+  ],
+  "Toyota": [
+    "multicorporate enterprise",
+    "Japan",
+    "Yaris",
+    "Avensis"
+  ],
+  "Trabant": [
+    "Trabbi",
+    "DDR",
+    "VEB",
+    "Germany",
+    "Zwickau"
+  ],
+  "Triumph": [
+    "England",
+    "Motorräder"
+  ],
+  "TVR": [
+    "England",
+    "sports car"
+  ],
+  "UAZ": [
+    "Russia",
+    "Soviet Union",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Vauxhall": [
+    "Opel",
+    "England"
+  ],
+  "Volvo": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "Ford",
+    "cargo"
+  ],
+  "Volkswagen": [
+    "Germany",
+    "Golf",
+    "Passat",
+    "Audi",
+    "Wolfsburg",
+    "multicorporate enterprise"
+  ],
+  "Wartburg": [
+    "Lada",
+    "DDR",
+    "Russia",
+    "Trabbi",
+    "Germany"
+  ],
+  "Applesauce": [
+    "fruit",
+    "tree",
+    "glass",
+    "preserving"
+  ],
+  "Beef patty": [
+    "pork",
+    "ground",
+    "steak"
+  ],
+  "Beef steak": [
+    "meat",
+    "cow",
+    "t-bone",
+    "tenderloin"
+  ],
+  "Beer ham": [
+    "sausage",
+    "alcohol"
+  ],
+  "Beer": [
+    "drink",
+    "bottle",
+    "toast"
+  ],
+  "Big Mac": [
+    "McDonalds",
+    "hamburger",
+    "pattie",
+    "salad"
+  ],
+  "Bratwurst": [
+    "currywurst",
+    "Thüringer",
+    "barbecue"
+  ],
+  "Brown bread": [
+    "toast",
+    "dark",
+    "baking"
+  ],
+  "Budweiser (beer)": [
+    "brewed",
+    "purity law",
+    "drink",
+    "Czech Republic"
+  ],
+  "Burger King": [
+    "McDonalds",
+    "hamburger",
+    "fries",
+    "fast food"
+  ],
+  "Butter": [
+    "magarine",
+    "fat",
+    "roast",
+    "bread"
+  ],
+  "Camembert": [
+    "cheese",
+    "white",
+    "cranberries"
+  ],
+  "Carlsberg (beer)": [
+    "brewed",
+    "purity",
+    "drink",
+    "green"
+  ],
+  "Chicken breast fillet": [
+    "meat",
+    "fine",
+    "eggs"
+  ],
+  "Chocolate": [
+    "cocoa",
+    "Nutella",
+    "Ritter Sport"
+  ],
+  "Ciabatta": [
+    "bread",
+    "baked",
+    "Italy"
+  ],
+  "Cocktail sauce": [
+    "barbecue",
+    "steak"
+  ],
+  "Cola": [
+    "drink",
+    "Fanta",
+    "Sprite",
+    "brown",
+    "Coca"
+  ],
+  "Cornflakes": [
+    "breakfast",
+    "milk",
+    "Kellogs",
+    "cereal"
+  ],
+  "Corona (beer)": [
+    "brewed",
+    "purity",
+    "drink",
+    "tequila"
+  ],
+  "Cream cake": [
+    "cake",
+    "butter",
+    "milk",
+    "sweet",
+    "wedding"
+  ],
+  "Cream cheese": [
+    "butter",
+    "yogurt",
+    "spread",
+    "bread"
+  ],
+  "Cream pudding": [
+    "sweet",
+    "dessert"
+  ],
+  "Cream": [
+    "butter",
+    "milk",
+    "cake",
+    "sundae"
+  ],
+  "Crispbread": [
+    "dry",
+    "hard",
+    "bread",
+    "baked"
+  ],
+  "Croissant": [
+    "Breakfast",
+    "bent",
+    "baked",
+    "sweet",
+    "jam"
+  ],
+  "Croquettes": [
+    "potatoes",
+    "fries",
+    "wedges"
+  ],
+  "Crème fraiche": [
+    "Potatoes",
+    "cream",
+    "cooking",
+    "salad"
+  ],
+  "Currywurst": [
+    "barbecue",
+    "Berlin",
+    "Thüringer"
+  ],
+  "Donut": [
+    "round",
+    "sweet",
+    "glaze",
+    "coffee"
+  ],
+  "Dried fruit": [
+    "wet",
+    "vegetable",
+    "apple",
+    "banana"
+  ],
+  "Duck": [
+    "pond",
+    "christmas",
+    "drake",
+    "goose"
+  ],
+  "Dunkin Donuts": [
+    "coffee",
+    "round",
+    "sweet",
+    "glaze"
+  ],
+  "Döner Kebab": [
+    "Dürum",
+    "falafel",
+    "salad"
+  ],
+  "Dürüm": [
+    "kebab",
+    "falafel",
+    "batter",
+    "salad"
+  ],
+  "Eggs": [
+    "chicken",
+    "round",
+    "white",
+    "mirror",
+    "pan"
+  ],
+  "Falafel": [
+    "kebab",
+    "salad"
+  ],
+  "Fish sticks": [
+    "Iglo",
+    "Captain",
+    "Sea"
+  ],
+  "French Fries": [
+    "McDonalds",
+    "potatoes",
+    "Pommes"
+  ],
+  "Fried potatoes": [
+    "potato",
+    "skillet",
+    "bacon"
+  ],
+  "Frikadelle": [
+    "boulette",
+    "meatball",
+    "meat"
+  ],
+  "Frozen pizza": [
+    "freezing",
+    "ice",
+    "Italy",
+    "salami"
+  ],
+  "Frozen vegetables": [
+    "freezing",
+    "fruit",
+    "ice cream"
+  ],
+  "Fruit juice": [
+    "drink",
+    "apple",
+    "orange",
+    "tree"
+  ],
+  "Fruit": [
+    "vegetable",
+    "apple",
+    "banana",
+    "strawberry"
+  ],
+  "Fruitcake": [
+    "Baking",
+    "apple",
+    "plum",
+    "granny",
+    "vegetable"
+  ],
+  "Goose": [
+    "duck",
+    "Christmas",
+    "turkey"
+  ],
+  "Gouda": [
+    "cheese",
+    "Emmental",
+    "Maßdamer"
+  ],
+  "Green salad": [
+    "ceasar",
+    "tomatoes",
+    "cucumber"
+  ],
+  "Ground beef": [
+    "shredder",
+    "cow",
+    "milk",
+    "boulette"
+  ],
+  "Half-fat butter": [
+    "magarine",
+    "whole",
+    "spread",
+    "bread"
+  ],
+  "Ham and cheese croissant": [
+    "sausage",
+    "breakfast",
+    "Paris",
+    "France"
+  ],
+  "Hamburger": [
+    "McDonalds",
+    "Burger King",
+    "bread",
+    "pattie",
+    "salad"
+  ],
+  "Heineken (beer)": [
+    "brewed",
+    "purity",
+    "drink"
+  ],
+  "Herb curd": [
+    "potatoes",
+    "garden",
+    "parsley"
+  ],
+  "Herring fillet": [
+    "fish",
+    "sea",
+    "fishing",
+    "fine"
+  ],
+  "Hollandaise sauce": [
+    "cutlet",
+    "asparagus",
+    "Holland",
+    "Netherlands"
+  ],
+  "Honey": [
+    "bees",
+    "beekeeper",
+    "sweet",
+    "breakfast",
+    "bear"
+  ],
+  "Hot dog": [
+    "bread",
+    "sausage",
+    "IKEA",
+    "USA"
+  ],
+  "Ice cream": [
+    "summer",
+    "cold",
+    "frozen",
+    "chocolate",
+    "vanilla",
+    "cup"
+  ],
+  "Jack Daniels (whisky)": [
+    "drink",
+    "black"
+  ],
+  "Jello": [
+    "green",
+    "woodruff",
+    "trembling",
+    "sweet",
+    "dessert"
+  ],
+  "Johnnie Walker (whisky)": [
+    "drink",
+    "USA",
+    "go"
+  ],
+  "KFC": [
+    "chicken wings",
+    "fat",
+    "USA",
+    "bucket"
+  ],
+  "Lemonade": [
+    "drink",
+    "cola",
+    "fanta",
+    "sprite"
+  ],
+  "Licorice": [
+    "sweet",
+    "black",
+    "snacking"
+  ],
+  "Liqueur": [
+    "drink",
+    "liquor"
+  ],
+  "Liver sausage": [
+    "spread",
+    "bread",
+    "meat"
+  ],
+  "Mackerel": [
+    "Fish",
+    "Sea",
+    "Fishing"
+  ],
+  "Margarine": [
+    "Butter",
+    "Spread",
+    "Bread"
+  ],
+  "Marmalade": [
+    "Breakfast",
+    "Spread",
+    "Bread",
+    "Strawberries"
+  ],
+  "Marzipan": [
+    "cake",
+    "sweet",
+    "decoration",
+    "white"
+  ],
+  "Mascarpone": [
+    "Tiramisu",
+    "sweet",
+    "heavy",
+    "Italy"
+  ],
+  "Mayonnaise": [
+    "ketchup",
+    "sausage",
+    "fries",
+    "white"
+  ],
+  "McDonalds": [
+    "burger king",
+    "hamburger",
+    "fries",
+    "yellow",
+    "bow"
+  ],
+  "Milk": [
+    "cow",
+    "white",
+    "drink",
+    "cereal",
+    "breakfast",
+    "lactose"
+  ],
+  "Minced meat": [
+    "boulette",
+    "beef",
+    "pork"
+  ],
+  "Mousse": [
+    "chocolate",
+    "airy",
+    "brown",
+    "foam"
+  ],
+  "Mozzarella": [
+    "pizza",
+    "tomato",
+    "Italy",
+    "cheese"
+  ],
+  "Muesli": [
+    "breakfast",
+    "cornflakes",
+    "milk",
+    "bowl"
+  ],
+  "Non-alcoholic beer": [
+    "girl",
+    "drink"
+  ],
+  "Nut nougat cream": [
+    "nutella",
+    "chocolate",
+    "breakfast"
+  ],
+  "Nutella": [
+    "nut nougat cream",
+    "chocolate",
+    "breakfast",
+    "spread"
+  ],
+  "Nuts": [
+    "Macadamia",
+    "fruit",
+    "bowl",
+    "trail mix"
+  ],
+  "Olives": [
+    "oil",
+    "green",
+    "black",
+    "bitter"
+  ],
+  "Oranges": [
+    "Tangerine",
+    "fruit",
+    "Christmas"
+  ],
+  "Pancakes": [
+    "Baking",
+    "sweet",
+    "jam",
+    "dessert",
+    "pie"
+  ],
+  "Pasta": [
+    "spaghetti",
+    "pasta",
+    "tomato sauce",
+    "Italy"
+  ],
+  "Pesto": [
+    "pasta",
+    "spaghetti",
+    "herbs",
+    "paste"
+  ],
+  "Pizza Hut": [
+    "USA",
+    "KFC",
+    "fast food",
+    "red",
+    "Italy"
+  ],
+  "Pollock": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Popcorn": [
+    "corn",
+    "movie theater",
+    "salt",
+    "butter",
+    "sugar",
+    "snacking"
+  ],
+  "Pork chop": [
+    "meat",
+    "steak",
+    "T-bone",
+    "cow",
+    "beef"
+  ],
+  "Pork cutlet": [
+    "meat",
+    "steak",
+    "T-bone",
+    "cow",
+    "beef",
+    "breading",
+    "fries"
+  ],
+  "Potato chips": [
+    "salty",
+    "nibble",
+    "chio"
+  ],
+  "Potato dumpling dough": [
+    "roast",
+    "red cabbage",
+    "boil"
+  ],
+  "Potato salad": [
+    "potato",
+    "mayonnaise"
+  ],
+  "Potatoes": [
+    "earth apple",
+    "brown",
+    "cooking",
+    "fries"
+  ],
+  "Pudding": [
+    "chocolate",
+    "vanilla",
+    "sweet",
+    "dessert"
+  ],
+  "Puff pastry": [
+    "paper",
+    "sweet",
+    "cake",
+    "baking"
+  ],
+  "Rice crackers": [
+    "white",
+    "air",
+    "snacking",
+    "breaking"
+  ],
+  "Rice": [
+    "asia",
+    "china",
+    "white",
+    "grain",
+    "chopsticks"
+  ],
+  "Roast Chicken": [
+    "Broiler",
+    "oven",
+    "chicken wings",
+    "skin"
+  ],
+  "Rollmops": [
+    "Fish",
+    "Bread",
+    "Herring"
+  ],
+  "Rolls": [
+    "Schrippe",
+    "Semmel",
+    "baked",
+    "bakers"
+  ],
+  "Salad dressing": [
+    "tomato",
+    "herbs",
+    "ceasar",
+    "yogurt"
+  ],
+  "Salami": [
+    "sausage",
+    "pork",
+    "mince",
+    "topping"
+  ],
+  "Salmon": [
+    "fish",
+    "sea",
+    "fishing",
+    "tuna fish"
+  ],
+  "Saltines": [
+    "brown",
+    "pretzels",
+    "nibbles"
+  ],
+  "Semolina pudding": [
+    "dessert",
+    "sweet",
+    "cherries",
+    "rice pudding"
+  ],
+  "Shrimp": [
+    "Sea",
+    "Fruit",
+    "Sushi"
+  ],
+  "Soup": [
+    "liquid",
+    "water",
+    "herbs",
+    "broth"
+  ],
+  "Sour cream": [
+    "sweet",
+    "salty",
+    "butter",
+    "milk"
+  ],
+  "Sparkling wine": [
+    "drink",
+    "carbonated",
+    "toast",
+    "new year's eve"
+  ],
+  "Speisequark": [
+    "potatoes",
+    "herbs",
+    "yogurt",
+    "cream"
+  ],
+  "Sponge cake": [
+    "Bake",
+    "granny",
+    "stick"
+  ],
+  "Spätzle": [
+    "noodles",
+    "dough",
+    "Austria"
+  ],
+  "Starbucks": [
+    "coffee",
+    "expensive",
+    "cup",
+    "green",
+    "USA",
+    "hipster"
+  ],
+  "Steak": [
+    "meat",
+    "cutlet",
+    "fries",
+    "t-bone",
+    "filet"
+  ],
+  "Subway": [
+    "sandwich",
+    "salad",
+    "meat",
+    "USA",
+    "fast food",
+    "cookies",
+    "cookies"
+  ],
+  "Sunflower oil": [
+    "canola",
+    "olive oil",
+    "frying",
+    "cooking",
+    "butter"
+  ],
+  "Sushi": [
+    "fish",
+    "seaweed",
+    "rice",
+    "Asia",
+    "China",
+    "Japan"
+  ],
+  "Tiramisu": [
+    "mascarpone",
+    "coffee",
+    "biscuit",
+    "cake",
+    "Italy"
+  ],
+  "Toast Hawaii": [
+    "pineapple",
+    "ham",
+    "bread",
+    "USA",
+    "state"
+  ],
+  "Toast": [
+    "bread",
+    "baking",
+    "white",
+    "light"
+  ],
+  "Tomato sauce": [
+    "pasta",
+    "spaghetti",
+    "red",
+    "bolognese"
+  ],
+  "Trout": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Vegetables": [
+    "fruit",
+    "salad",
+    "tomato"
+  ],
+  "Whiskey": [
+    "drink",
+    "spirit",
+    "scotland",
+    "brown"
+  ],
+  "White bread": [
+    "toast",
+    "light",
+    "dark",
+    "black"
+  ],
+  "Wiener": [
+    "Hot Dog",
+    "Bread",
+    "Austria"
+  ],
+  "Wine": [
+    "drink",
+    "red",
+    "white",
+    "adult"
+  ],
+  "Yogurt": [
+    "sweet",
+    "dessert"
+  ],
+  "50 Cent": [
+    "Dollar",
+    "half",
+    "Rap",
+    "Hip Hop",
+    "USA"
+  ],
+  "Abigail Breslin": [
+    "Zombieland",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Abraham Lincoln": [
+    "president",
+    "USA",
+    "murder"
+  ],
+  "Adam Sandler": [
+    "Jack & Jill",
+    "Little Nicky",
+    "actor",
+    "Hollywood",
+    "USA",
+    "comedy"
+  ],
+  "Adolf Hitler": [
+    "World War",
+    "Stalin",
+    "1945",
+    "jews",
+    "Holocaust",
+    "Germany"
+  ],
+  "Al Capone": [
+    "gangster",
+    "Chicago",
+    "Mafia",
+    "Italy"
+  ],
+  "Al Pacino": [
+    "The Godfather",
+    "Scarface",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Alan Rickman": [
+    "Harry Potter",
+    "Snape",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Albert Einstein": [
+    "theory of relativity",
+    "physicist",
+    "scientist",
+    "Germany",
+    "Haare"
+  ],
+  "Alec Baldwin": [
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Alexander Graham Bell": [
+    "inventor",
+    "USA",
+    "entrepreneur",
+    "telephone"
+  ],
+  "Alfred Hitchcock": [
+    "author",
+    "director",
+    "thriller",
+    "Psycho",
+    "Vertigo"
+  ],
+  "Alison Brie": [
+    "BoJack Horseman",
+    "Mad Men",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Amanda Seyfried": [
+    "Les Misérables",
+    "The Big Wedding",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Amy Adams": [
+    "American Hustle",
+    "Arrival",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Andie MacDowell": [
+    "Footloose",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Andy Warhol": [
+    "artist",
+    "producer",
+    "movies",
+    "Pop Art",
+    "illustrations",
+    "dead"
+  ],
+  "Angela Merkel": [
+    "Germany",
+    "federal chancellor",
+    "European Union",
+    "CDU / CSU",
+    "government",
+    "rue"
+  ],
+  "Anne Hathaway": [
+    "Les Misérables",
+    "Interstellar",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Anthony Hopkins": [
+    "Silence of the Lambs",
+    "Hannibal Lecter",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Anthony Quinn": [
+    "Alexis Sorbas",
+    "actor",
+    "Hollywood",
+    "Mexiko"
+  ],
+  "Arnold Schwarzenegger": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Terminator",
+    "I'll be back"
+  ],
+  "Audrey Hepburn": [
+    "Breakfast at Tiffany's",
+    "My Fair Lady",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Barbara Streisand": [
+    "Woman in Love",
+    "Funny Girl",
+    "singerin",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Ben Kingsley": [
+    "Schindlers List",
+    "Shutter Island",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Ben Stiller": [
+    "Night in the Museum",
+    "actor",
+    "Hollywood",
+    "USA",
+    "comedy"
+  ],
+  "Benedict Cumberbatch": [
+    "Doctor Strange",
+    "Avengers",
+    "Sherlock Holmes",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Benicio Del Toro": [
+    "Che",
+    "The Usual Suspects",
+    "Fear and Loathing in Las Vegas",
+    "actor",
+    "Hollywood"
+  ],
+  "Benjamin Franklin": [
+    "inventor",
+    "book printing",
+    "kite",
+    "electricity",
+    "USA",
+    "independence"
+  ],
+  "Bill Gates": [
+    "Windows",
+    "Microsoft",
+    "Computer",
+    "PC",
+    "Software"
+  ],
+  "Bill Murray": [
+    "Lost in Translation",
+    "Ghost Busters",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Blake Lively": [
+    "Gossip Girl",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Bob Dylan": [
+    "singer",
+    "songs",
+    "harmonica",
+    "Folk",
+    "Rock"
+  ],
+  "Bob Marley": [
+    "Three Little Birds",
+    "Reggae",
+    "chill",
+    "joint",
+    "Jamaica"
+  ],
+  "Bono": [
+    "singer",
+    "U2",
+    "Rock",
+    "England"
+  ],
+  "Brad Pitt": [
+    "Fight Club",
+    "12 Monkeys",
+    "Interview with the Vampire",
+    "actor",
+    "Hollywood",
+    "Angelina Jolie"
+  ],
+  "Bradley Cooper": [
+    "Silver Linings",
+    "American Hustle",
+    "American Sniper",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Bruce Lee": [
+    "China",
+    "Kung Fu",
+    "Jackie Chan",
+    "Karate"
+  ],
+  "Buzz Aldrin": [
+    "astronaut",
+    "NASA",
+    "USA",
+    "Big Bang Thory"
+  ],
+  "Catherine Zeta-Jones": [
+    "Chicago",
+    "Ocean's 12",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Channing Tatum": [
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Charles Darwin": [
+    "naturalist",
+    "geologist",
+    "biologist",
+    "science of evolution"
+  ],
+  "Charles De Gaulle": [
+    "president",
+    "France",
+    "World War"
+  ],
+  "Charles Dickens": [
+    "writer",
+    "author",
+    "A Christmas Carol",
+    "Oliver Twist"
+  ],
+  "Charlie Chaplin": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "silent movies"
+  ],
+  "Charlie Sheen": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Two and a half Men",
+    "Hot Shots"
+  ],
+  "Ernesto Che Guevara": [
+    "revolution",
+    "Cuba",
+    "Fidel Castro"
+  ],
+  "Chris Evans": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Avengers",
+    "Marvel"
+  ],
+  "Chris Hemsworth": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Thor"
+  ],
+  "Chris Pratt": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Guardians of the Galaxy",
+    "Jurassic Park"
+  ],
+  "Christian Bale": [
+    "actor",
+    "Hollywood",
+    "Batman",
+    "The Dark Knight",
+    "American Psycho"
+  ],
+  "Christoph Waltz": [
+    "actor",
+    "Django Unchained",
+    "Inglorious Basterds"
+  ],
+  "Christopher Columbus": [
+    "Italy",
+    "explorer",
+    "Atlantic Ocean",
+    "America"
+  ],
+  "Christopher Nolan": [
+    "director",
+    "Inception",
+    "Interstellar",
+    "Dunkirk",
+    "Prestige"
+  ],
+  "Christopher Walken": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "7 Psychos"
+  ],
+  "Chuck Norris": [
+    "actor",
+    "Roundhouse Kick",
+    "Walker Texas Ranger"
+  ],
+  "Clint Eastwood": [
+    "actor",
+    "Hollywood",
+    "Million Dollar Baby",
+    "Gran Turino"
+  ],
+  "Colin Firth": [
+    "actor",
+    "Hollywood",
+    "A Single Man",
+    "Kingsman"
+  ],
+  "Dame Elizabeth Taylor": [
+    "actress",
+    "There's One Born Every Minute",
+    "Hollywood",
+    "National Velvet"
+  ],
+  "Daniel Day-Lewis": [
+    "actor",
+    "There will be Blood",
+    "Gangs of New York"
+  ],
+  "Daniel Radcliffe": [
+    "actor",
+    "Harry Potter",
+    "mage",
+    "Hogwarts"
+  ],
+  "Danny DeVito": [
+    "actor",
+    "Hollywood",
+    "Twins",
+    "Batman"
+  ],
+  "David Hasselhoff": [
+    "Knight Rider",
+    "Baywatch"
+  ],
+  "Demi Moore": [
+    "actor",
+    "Hollywood",
+    "G.I. Jane",
+    "Charlies Angels"
+  ],
+  "Denzel Washington": [
+    "actor",
+    "Hollywood",
+    "The Book of Eli",
+    "Training Day"
+  ],
+  "Diane Keaton": [
+    "actress",
+    "Manhattan"
+  ],
+  "Diane Kruger": [
+    "actress",
+    "Inglorious Basterds",
+    "Unknown Identity"
+  ],
+  "Dr. Stephen Hawking": [
+    "physicist",
+    "dead"
+  ],
+  "Dustin Hoffman": [
+    "actor",
+    "Hollywood",
+    "Tootsie",
+    "Rain Man"
+  ],
+  "Dwayne 'The Rock' Johnson": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Fast and Furious",
+    "wrestling"
+  ],
+  "Eddie Murphy": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Beverly Hills Cop"
+  ],
+  "Edgar Allan Poe": [
+    "author",
+    "poet",
+    "Boston"
+  ],
+  "Edward Norton": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Fight Club",
+    "American History X"
+  ],
+  "Ellen Page": [
+    "Schauspielerin",
+    "Juno",
+    "Inception",
+    "Hard Candy",
+    "X-Men"
+  ],
+  "Elvis Presley": [
+    "singer",
+    "Rock",
+    "Jailhouse Rock",
+    "Las Vegas"
+  ],
+  "Elyas M'Barek": [
+    "actor",
+    "Germany"
+  ],
+  "Eminem": [
+    "Rapper",
+    "Slim Shady",
+    "Detroit",
+    "Without me"
+  ],
+  "Emma Stone": [
+    "actress",
+    "Zombieland",
+    "La La Land"
+  ],
+  "Emma Watson": [
+    "actor",
+    "Hogwarts",
+    "Harry Potter",
+    "Hermine"
+  ],
+  "Ernest Hemingway": [
+    "author",
+    "Nobel Price",
+    "The Old Man and the Sea"
+  ],
+  "Federico Fellini": [
+    "Italia",
+    "director",
+    "screenwriter",
+    "La Strada"
+  ],
+  "Felicity Jones": [
+    "actress",
+    "Star Wars: Rogue One",
+    "Like Crazy",
+    "Inferno",
+    "The Theory of Everything"
+  ],
+  "Fidel Castro": [
+    "Che Guevara",
+    "Cuba"
+  ],
+  "Frank Sinatra": [
+    "singer",
+    "Swing",
+    "Jazz",
+    "New York, New York"
+  ],
+  "Freddie Mercury": [
+    "Queen",
+    "singer",
+    "Rock",
+    "We will Rock you"
+  ],
+  "Galileo Galilei": [
+    "philosopher",
+    "astrologer",
+    "inventor",
+    "church"
+  ],
+  "Geena Davis": [
+    "actress",
+    "Thelma & Louise"
+  ],
+  "Gene Hackman": [
+    "actor",
+    "Hollywood",
+    "The French Connection"
+  ],
+  "Gene Kelly": [
+    "actor",
+    "Singin in the Rain"
+  ],
+  "General Dwight D. Eisenhower": [
+    "World War",
+    "president",
+    "USA",
+    "invasion of Normandy"
+  ],
+  "Geoffrey Rush": [
+    "actor",
+    "Shine",
+    "Pirates of the Caribbean"
+  ],
+  "George Clooney": [
+    "actor",
+    "Hollywood",
+    "Michael Clayton",
+    "From Dusk till Dawn"
+  ],
+  "George Washington": [
+    "first president",
+    "USA",
+    "US Constitution"
+  ],
+  "Gerard Depardieu": [
+    "actor",
+    "France",
+    "The Man with the Iron Mask",
+    "Danton"
+  ],
+  "Glenn Close": [
+    "actress",
+    "Fatal Attraction"
+  ],
+  "Grigorij Rasputin": [
+    "Russia",
+    "charlatan"
+  ],
+  "Harrison Ford": [
+    "Han Solo",
+    "Star Wars",
+    "Indiana Jones",
+    "actor",
+    "Hollywood"
+  ],
+  "Harry Houdini": [
+    "illusionist",
+    "stunt performer",
+    "escape performance"
+  ],
+  "Hayley Atwell": [
+    "actress",
+    "Marvel",
+    "Captain America",
+    "Peggy Carter"
+  ],
+  "Heath Ledger": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Batman",
+    "Joker"
+  ],
+  "Helen Mirren": [
+    "actress",
+    "RED",
+    "The Queen"
+  ],
+  "Hugh Grant": [
+    "actor",
+    "Hollywood",
+    "England"
+  ],
+  "Hugh Jackman": [
+    "Wolverine",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Humphrey Bogart": [
+    "actor",
+    "Casablanca",
+    "The Treasure of the Sierra Madre"
+  ],
+  "Ian McKellen": [
+    "Gandalf",
+    "Lord of the Rings",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Jack Nicholson": [
+    "actor",
+    "Hollywood",
+    "Shining",
+    "As Good as it Gets"
+  ],
+  "Jackie Chan": [
+    "actor",
+    "China",
+    "Kung Fu",
+    "Karate"
+  ],
+  "Jake Gyllenhaal": [
+    "actor",
+    "Hollywood",
+    "USA",
+    "Nightcrawler"
+  ],
+  "James Dean": [
+    "actor",
+    "cigarette",
+    "icon",
+    "Rebel Without a Cause"
+  ],
+  "Jamie Lee Curtis": [
+    "Alien",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Janis Joplin": [
+    "singer",
+    "Rock",
+    "Soul",
+    "Piece of My Heart"
+  ],
+  "Jared Leto": [
+    "actor",
+    "Dallas Buyers Club",
+    "Suicide Squad"
+  ],
+  "Jean Reno": [
+    "actor",
+    "France",
+    "Leon",
+    "Ronin",
+    "Wasabi"
+  ],
+  "Jeff Bridges": [
+    "actor",
+    "The Big Lebowski",
+    "Dude",
+    "bowling"
+  ],
+  "Jennifer Aniston": [
+    "Friends",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Jennifer Lawrence": [
+    "actress",
+    "Hollywood",
+    "The Hunger Games",
+    "Silver Linings",
+    "American Hustle",
+    "X-Men"
+  ],
+  "Jim Carrey": [
+    "actor",
+    "Hollywood",
+    "Ace Ventura",
+    "comedy",
+    "Bruce Almighty"
+  ],
+  "Jim Morrison": [
+    "singer",
+    "The Doors",
+    "Rock"
+  ],
+  "Jimi Hendrix": [
+    "singer",
+    "Rock",
+    "Woodstock",
+    "E-Gitarre"
+  ],
+  "Joaquin Phoenix": [
+    "actor",
+    "Joker",
+    "Batman",
+    "her",
+    "Walk the Line"
+  ],
+  "Jodie Foster": [
+    "actor",
+    "Hollywood",
+    "Silence of the Lambs",
+    "Taxi Driver"
+  ],
+  "John F. Kennedy": [
+    "president",
+    "USA",
+    "murder",
+    "Vietnam"
+  ],
+  "John Goodman": [
+    "The Big Lebowski",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "John Lennon": [
+    "singer",
+    "activist",
+    "Beatles",
+    "Paul McCartney"
+  ],
+  "John Wayne": [
+    "True Grit",
+    "actor",
+    "Alamo"
+  ],
+  "Johnny Depp": [
+    "Pirates of the Caribbean",
+    "Fear and Loathing in Las Vegas",
+    "Charlie and the Cholocate Factory",
+    "actor",
+    "Hollywood"
+  ],
+  "Josef Stalin": [
+    "Russia",
+    "World War",
+    "Soviet Union",
+    "communists"
+  ],
+  "Joseph Gordon-Levitt": [
+    "actor",
+    "Inception",
+    "Looper",
+    "Don Jon",
+    "50/50",
+    "Snowden"
+  ],
+  "Julianne Moore": [
+    "actress",
+    "Far from Heaven",
+    "The Kids are all right"
+  ],
+  "Justin Bieber": [
+    "singer",
+    "Pop",
+    "Teenie-Star",
+    "One Time"
+  ],
+  "Karl Lagerfeld": [
+    "Designer",
+    "fashion",
+    "suit",
+    "Germany",
+    "fashionzar"
+  ],
+  "Kat Dennings": [
+    "Two Broke Girls",
+    "actress",
+    "Hollywood",
+    "USA"
+  ],
+  "Kate Beckinsale": [
+    "actress",
+    "Hollywood",
+    "Underworld",
+    "Aviator"
+  ],
+  "Kate Winslet": [
+    "Titanic",
+    "Leonardo DiCaprio",
+    "actress",
+    "Hollywood"
+  ],
+  "Keira Knightley": [
+    "actress",
+    "Pirates of the Caribbean",
+    "Atonement",
+    "The Immitation Game"
+  ],
+  "Kevin James": [
+    "King of Queens",
+    "Doug",
+    "actor",
+    "Hollywood",
+    "comedy"
+  ],
+  "Kevin Spacey": [
+    "actor",
+    "Hollywood",
+    "The usual Suspects",
+    "LA Confidential",
+    "Seven",
+    "House of Cards"
+  ],
+  "Kiefer Sutherland": [
+    "24h",
+    "actor",
+    "Hollywood",
+    "USA"
+  ],
+  "Kristen Stewart": [
+    "Twilight",
+    "actor",
+    "Bella",
+    "Snow White and the Huntsman"
+  ],
+  "Kurt Cobain": [
+    "singer",
+    "Nirvana",
+    "Rock",
+    "suicide",
+    "Smells Like Teen Spirit"
+  ],
+  "Lance Armstrong": [
+    "sports",
+    "road racing cyclist",
+    "Tour de France",
+    "Doping"
+  ],
+  "Leonardo Da Vinci": [
+    "artist",
+    "inventor",
+    "The Last Supper",
+    "Mona Lisa",
+    "Italia",
+    "Renaissance"
+  ],
+  "Leonardo DiCaprio": [
+    "Titanic",
+    "Wolf of Wallstreet",
+    "Inception",
+    "The Beach",
+    "actor"
+  ],
+  "Liam Neeson": [
+    "Star Wars",
+    "actor",
+    "Hollywood",
+    "Schindlers List",
+    "96 Hours"
+  ],
+  "Louis Armstrong": [
+    "musician",
+    "Jazz",
+    "trumpet"
+  ],
+  "Ludwig van Beethoven": [
+    "German",
+    "composer",
+    "Vienna",
+    "Violin Concerto",
+    "Classic"
+  ],
+  "Maggie Smith": [
+    "Harry Potter",
+    "Prof. McGonnagall",
+    "actress",
+    "Hogwarts"
+  ],
+  "Mahatma Gandhi": [
+    "India",
+    "Buddhism",
+    "peace"
+  ],
+  "Malcolm X": [
+    "black",
+    "Muslim",
+    "activist",
+    "human civil rights",
+    "Nation of Islam"
+  ],
+  "Margot Robbie": [
+    "actress",
+    "Wolf of Wallstreet",
+    "Suicide Squad"
+  ],
+  "Marie Antoinette": [
+    "France",
+    "queen",
+    "revolution"
+  ],
+  "Marie Curie": [
+    "Polish",
+    "physicist",
+    "chemist",
+    "radioactivity"
+  ],
+  "Marilyn Monroe": [
+    "icon",
+    "actress",
+    "Hollywood",
+    "dead"
+  ],
+  "Mark Twain": [
+    "author",
+    "writer",
+    "humorist",
+    "publisher",
+    "Tom Sawyer",
+    "Huckleberry Finn"
+  ],
+  "Mark Wahlberg": [
+    "actor",
+    "Hollywood",
+    "Marky Mark",
+    "Calvin Klein",
+    "Ted",
+    "Boogie Nights"
+  ],
+  "Marlene Dietrich": [
+    "actress",
+    "singer",
+    "Germany",
+    "silent films"
+  ],
+  "Marlon Brando": [
+    "actor",
+    "Godfather",
+    "Mafia",
+    "Apocalypse Now"
+  ],
+  "Martin Lawrence": [
+    "actor",
+    "black",
+    "Bad Boys",
+    "Big Mommas House"
+  ],
+  "Martin Luther King": [
+    "civil rights movement",
+    "black",
+    "I have a Dream",
+    "activist"
+  ],
+  "Matt Damon": [
+    "Jason Bourne",
+    "actor",
+    "Good Will Hunting",
+    "The Martian",
+    "The talented Mr. Rippley"
+  ],
+  "Matthew McConaughey": [
+    "actor",
+    "Dallas Buyers Club",
+    "Interstellar",
+    "Lincoln",
+    "Wolf of Wall Street"
+  ],
+  "Matthew Perry": [
+    "Friends",
+    "Chandler Bing",
+    "actor",
+    "The whole nine yards",
+    "Studio 60"
+  ],
+  "Matthias Schweighöfer": [
+    "actor",
+    "Germany",
+    "Till Schweiger",
+    "You are Wanted"
+  ],
+  "Mel Gibson": [
+    "actor",
+    "Braveheart",
+    "Leathal Weapon",
+    "Martin Riggs",
+    "Hacksaw Ridge",
+    "The Passion of the Christ"
+  ],
+  "Meryl Streep": [
+    "actress",
+    "The Devil wears Prada",
+    "Out of Africa"
+  ],
+  "Mette Marit": [
+    "princess",
+    "Norway",
+    "Queen",
+    "royal",
+    "Scandinavia"
+  ],
+  "Michael Caine": [
+    "Batman",
+    "actor",
+    "Dark Knight",
+    "Cutter",
+    "Prestige"
+  ],
+  "Michael Douglas": [
+    "actor",
+    "Wall Street",
+    "Basic Instinct",
+    "Hank Pym",
+    "Marvel"
+  ],
+  "Michael J. Fox": [
+    "Marty",
+    "Back to the Future",
+    "Doc",
+    "actor",
+    "Hollywood",
+    "Pakinson"
+  ],
+  "Michael Jackson": [
+    "singer",
+    "white",
+    "Beat it",
+    "Billie Jean",
+    "Thriller"
+  ],
+  "Michael Jordan": [
+    "basketball",
+    "NBA",
+    "Space Jam",
+    "Chicago Bulls"
+  ],
+  "Michelangelo": [
+    "painter",
+    "artist",
+    "Italy",
+    "Sistine Chapel",
+    "Renaissance"
+  ],
+  "Michelle Pfeiffer": [
+    "actress",
+    "Hairspray",
+    "Maleficent",
+    "One Fine Day"
+  ],
+  "Mick Jagger": [
+    "singer",
+    "Rolling Stones",
+    "Rock",
+    "Keith Richards"
+  ],
+  "Mike Myers": [
+    "actor",
+    "Austin Powers",
+    "Goldmember",
+    "spy"
+  ],
+  "Mila Kunis": [
+    "actress",
+    "Black Swan",
+    "Bad Moms",
+    "Jupiter Ascending"
+  ],
+  "Miles Davis": [
+    "musician",
+    "jazz",
+    "trumpeter",
+    "blues",
+    "Blue in Green",
+    "So What"
+  ],
+  "Miranda Richardson": [
+    "actress",
+    "The Crying Game",
+    "Spider",
+    "Sleepy Hollow"
+  ],
+  "Mona Lisa": [
+    "art",
+    "painting",
+    "Louvre, Paris",
+    "Leonardo DaVinci"
+  ],
+  "Monica Bellucci": [
+    "actress",
+    "Malena",
+    "Brotherhood of the Wolves",
+    "Matrix",
+    "Shoot 'em Up"
+  ],
+  "Morgan Freeman": [
+    "actor",
+    "Se7en",
+    "Million Dollar Baby",
+    "Lucky Number Slevin",
+    "black",
+    "The Shawshank Redemption"
+  ],
+  "Mother Teresa": [
+    "Catholic Church",
+    "holy",
+    "nun",
+    "missionary",
+    "Calcutta"
+  ],
+  "Muhammad Ali": [
+    "boxer",
+    "activist",
+    "The Greatest",
+    "heavyweight"
+  ],
+  "Naomi Watts": [
+    "actress",
+    "Mulholland Drive",
+    "King Kong",
+    "Birdman"
+  ],
+  "Napoleon Bonaparte": [
+    "Frankreich",
+    "French Revolution",
+    "small",
+    "military",
+    "commander",
+    "poisoned"
+  ],
+  "Natalie Portman": [
+    "Star Wars",
+    "Anakin Skywalker",
+    "Padme Amidalla",
+    "actress",
+    "Black Swan",
+    "V for Vendetta",
+    "Leon der Profi"
+  ],
+  "Neil Armstrong": [
+    "astronaut",
+    "moon landing",
+    "USA",
+    "NASA",
+    "one small step"
+  ],
+  "Nelson Mandela": [
+    "revolutionary",
+    "black",
+    "South Africa",
+    "Nobel Peace Price"
+  ],
+  "Nicola Tesla": [
+    "inventor",
+    "engineer",
+    "Tesla coil",
+    "electricity",
+    "futurist"
+  ],
+  "Nicolas Cage": [
+    "The Rock",
+    "actor",
+    "Face Off",
+    "Leaving Las Vegas",
+    "Con Air"
+  ],
+  "Nicole Kidman": [
+    "actor",
+    "Moulin Rouge",
+    "Dogville"
+  ],
+  "Orson Welles": [
+    "actor",
+    "Citizen Kane",
+    "Touch of Evil",
+    "The Lady from Shanghai"
+  ],
+  "Owen Wilson": [
+    "actor",
+    "Wedding Crashers",
+    "Night in the Museum",
+    "Starsky & Hutch",
+    "The Royal Tenenbaums"
+  ],
+  "Pablo Picasso": [
+    "artist",
+    "painting",
+    "Spain"
+  ],
+  "Patrick Stewart": [
+    "Star Trek",
+    "Picard",
+    "actor",
+    "Wolverine",
+    "Charles"
+  ],
+  "Paul Walker": [
+    "2 Fast 2 Furious",
+    "car crash",
+    "actor",
+    "Hollywood",
+    "dead"
+  ],
+  "Peter Sellers": [
+    "actor",
+    "Dr. Strangelove",
+    "Inspector Clouseau",
+    "The Pink Panther"
+  ],
+  "Pope John Paul II": [
+    "catholic church",
+    "Vatican",
+    "representative of god",
+    "bishop of Rome"
+  ],
+  "Prinzessin Diana": [
+    "Great Britain",
+    "United Kingdom",
+    "Queen",
+    "royal",
+    "Paris",
+    "car crash"
+  ],
+  "Rachel Weisz": [
+    "actress",
+    "The Mummy",
+    "The Constant Gardener",
+    "The Favourite"
+  ],
+  "Rami Malek": [
+    "Mr. Robot",
+    "Freddie Mercury",
+    "Queen",
+    "actor",
+    "Oscar",
+    "Elliot Alderson",
+    "fsociety"
+  ],
+  "Rembrandt": [
+    "artist",
+    "painter",
+    "Dutch",
+    "Netherlands",
+    "portraits"
+  ],
+  "Richard Gere": [
+    "Pretty Woman",
+    "actor",
+    "Chicago",
+    "The Jackal"
+  ],
+  "Robert De Niro": [
+    "actor",
+    "Taxi Driver",
+    "Cape Fear",
+    "The Irishman",
+    "Joker",
+    "Raging Bull"
+  ],
+  "Robert Downey Jr.": [
+    "Ironman",
+    "Avengers",
+    "actor",
+    "Marvel",
+    "Sherlock Holmes"
+  ],
+  "Robert Pattinson": [
+    "Twilight",
+    "vampire",
+    "actor",
+    "Edward & Bella"
+  ],
+  "Robert Redford": [
+    "actor",
+    "The Natural",
+    "Butch Cassidy and the Sundance Kid"
+  ],
+  "Robin Williams": [
+    "actor",
+    "Mrs. Doubtfire",
+    "comedy",
+    "suicide",
+    "Good Morning, Vietnam",
+    "Good Will Hunting"
+  ],
+  "Ronald Reagan": [
+    "United States of America",
+    "president",
+    "actor",
+    "Hollywood",
+    "Governor of California"
+  ],
+  "Rowan Atkinson": [
+    "Mr. Bean",
+    "Mini",
+    "Teddy",
+    "actor",
+    "England",
+    "Great Britain"
+  ],
+  "Russell Crowe": [
+    "actor",
+    "A Beautiful Mind",
+    "Les Miserables",
+    "Gladiator",
+    "LA Confidential"
+  ],
+  "Salvador Dali": [
+    "artist",
+    "painter",
+    "surrealism",
+    "clock",
+    "raven"
+  ],
+  "Samuel L. Jackson": [
+    "Pulp Fiction",
+    "Jules Winnfield",
+    "actor",
+    "The Hateful Eight",
+    "Captain Marvel",
+    "Glass",
+    "Nick Fury"
+  ],
+  "Scarlett Johansson": [
+    "actress",
+    "Lost in Translation",
+    "Avengers",
+    "Natasha Romanoff",
+    "Under the Skin",
+    "Sing"
+  ],
+  "Sean Connery": [
+    "actor",
+    "The Rock",
+    "James Bond 007",
+    "The Hunt for Red October"
+  ],
+  "Sean Penn": [
+    "actor",
+    "Mystic River",
+    "Milk",
+    "Dead Men Walking"
+  ],
+  "Shahrukh Khan": [
+    "actor",
+    "Bollywood",
+    "India",
+    "dancing"
+  ],
+  "Sir Isaac Newton": [
+    "mathematician",
+    "astronomer",
+    "physicist",
+    "gravity",
+    "apple"
+  ],
+  "Stanley Kubrick": [
+    "director",
+    "2001: A Space Odyssey",
+    "Eyes Wide Shut",
+    "Clockwork Orange",
+    "Barry Lyndon"
+  ],
+  "Steve Jobs": [
+    "Apple",
+    "MacBook",
+    "iPhone",
+    "iPad",
+    "iPod",
+    "dead"
+  ],
+  "Susan Sarandon": [
+    "actress",
+    "Thelma & Louise",
+    "Dead Men Walking",
+    "Stepmom"
+  ],
+  "Sylvester Stallone": [
+    "Rambo",
+    "Rocky",
+    "Action",
+    "actor",
+    "Expandables"
+  ],
+  "Tim Allen": [
+    "Home Improvement",
+    "actor",
+    "Toy Story",
+    "Galaxy Quest",
+    "Santa Clause"
+  ],
+  "Tobey Maguire": [
+    "Spiderman",
+    "actor",
+    "Brothers",
+    "The Wonder Boys",
+    "Pleasantville"
+  ],
+  "Tom Cruise": [
+    "Top Gun",
+    "Scientology",
+    "actor",
+    "The Last Samurai",
+    "Jerry Maguire",
+    "Minority Report"
+  ],
+  "Tom Hanks": [
+    "Forrest Gump",
+    "Cast Away",
+    "Wilson",
+    "Saving Private Ryan",
+    "actor",
+    "Big",
+    "Inferno"
+  ],
+  "Tom Hardy": [
+    "Mad Max",
+    "Inception",
+    "actor",
+    "The Dark Knight",
+    "Taboo"
+  ],
+  "Tommy Lee Jones": [
+    "actor",
+    "No Country for Old Men",
+    "Homesman",
+    "Lincoln"
+  ],
+  "Uma Thurman": [
+    "Kill Bill",
+    "actor",
+    "Pulp Fiction",
+    "Batman & Robin"
+  ],
+  "Vin Diesel": [
+    "Riddick",
+    "2 Fast 2 Furious",
+    "actor",
+    "Triple X",
+    "Groot"
+  ],
+  "Vincent Van Gogh": [
+    "artist",
+    "painter",
+    "paintings",
+    "ear",
+    "brush technique",
+    "Dutch"
+  ],
+  "Vladimir Lenin": [
+    "Russia",
+    "revolutionary",
+    "politician",
+    "Soviet Union",
+    "Karl Marx",
+    "communist"
+  ],
+  "Walt Disney": [
+    "animatic",
+    "Donald Duck",
+    "Mickey Mouse",
+    "Bambi",
+    "The Lion King",
+    "theme park"
+  ],
+  "Warren Buffet": [
+    "hedgefonds",
+    "investments",
+    "finances",
+    "business tycoon",
+    "billionaire",
+    "rich"
+  ],
+  "Will Smith": [
+    "Independence Day",
+    "Bad Boys",
+    "actor",
+    "Fresh Prince of Bel Air",
+    "Men in Black",
+    "I am Legend",
+    "I Robot",
+    "Wild Wild West"
+  ],
+  "William Shakespeare": [
+    "playwright",
+    "peot",
+    "writer",
+    "Hamlet",
+    "Romeo and Juliet",
+    "Othello",
+    "Macbeth"
+  ],
+  "William Shatner": [
+    "Star Trek",
+    "Captain Kirk",
+    "actor",
+    "Spock",
+    "Enterprise"
+  ],
+  "Winston Churchill": [
+    "army officer",
+    "prime minister",
+    "United Kingdom",
+    "Great Britain",
+    "World War II"
+  ],
+  "Wolfgang Amadeus Mozart": [
+    "composer",
+    "Austria",
+    "piano",
+    "Eine Kleine Nacht-Musik",
+    "The Marriage of Figaro",
+    "The Magic Flute"
+  ],
+  "Woody Allen": [
+    "director",
+    "actor",
+    "writer",
+    "Manhattan",
+    "Midnight in Paris",
+    "Annie Hall"
+  ],
+  "Woody Harrelson": [
+    "Zombieland",
+    "actor",
+    "True Detective",
+    "Natural Born Killers",
+    "Larry Flint"
+  ],
+  "Yuri Gagarin": [
+    "astronaut",
+    "cosmonaut",
+    "space",
+    "Russia",
+    "Soviet Union"
+  ],
+  "Zooey Deschanel": [
+    "actress",
+    "New Girl",
+    "Hitchhikers Guide to the Galaxy"
+  ],
+  "Air brake": [
+    "car",
+    "PSI"
+  ],
+  "Airship": [
+    "hindenburg",
+    "helium",
+    "balloon"
+  ],
+  "Antenna": [
+    "TV",
+    "Internet",
+    "WLAN"
+  ],
+  "Atomizer": [
+    "flowers",
+    "glass cleaner"
+  ],
+  "Backpack": [
+    "carry",
+    "bag",
+    "school",
+    "transport"
+  ],
+  "Baking pan": [
+    "cake",
+    "pie"
+  ],
+  "Ball bearing": [
+    "bicycle",
+    "store",
+    "lubricate"
+  ],
+  "Bedding": [
+    "pillow",
+    "blanket",
+    "cover"
+  ],
+  "BluRay": [
+    "DVD",
+    "CD",
+    "movie",
+    "gigabyte"
+  ],
+  "Bowl": [
+    "transport",
+    "food"
+  ],
+  "Broom": [
+    "Cleaning",
+    "sweeping",
+    "cleaning",
+    "sweeping"
+  ],
+  "Butter dish": [
+    "magarine",
+    "can",
+    "refrigerator"
+  ],
+  "Cable drum": [
+    "power",
+    "electricity",
+    "roll up"
+  ],
+  "Cable": [
+    "electricity",
+    "long",
+    "plug",
+    "television"
+  ],
+  "Cake bell": [
+    "cake",
+    "coffee",
+    "transportation"
+  ],
+  "Cake server": [
+    "cake",
+    "coffee",
+    "plate"
+  ],
+  "Can opener": [
+    "canned",
+    "tin can"
+  ],
+  "Carpet cleaner": [],
+  "Carpet": [
+    "laminate",
+    "carpeting",
+    "floor"
+  ],
+  "Cassette recorder": [
+    "obsolete",
+    "tape",
+    "music"
+  ],
+  "CD": [
+    "DVD",
+    "Music"
+  ],
+  "Centrifuge": [
+    "medicine",
+    "spin"
+  ],
+  "Chopsticks": [
+    "wood",
+    "china",
+    "two",
+    "rice"
+  ],
+  "Cleaning bucket": [
+    "cleaning",
+    "mop"
+  ],
+  "Clothesline": [
+    "dry",
+    "hang",
+    "clips"
+  ],
+  "Clothespin": [
+    "clothes",
+    "line",
+    "dry",
+    "hang up"
+  ],
+  "Coat hanger": [
+    "hanging",
+    "closet"
+  ],
+  "Coffee filter": [
+    "machine",
+    "pot"
+  ],
+  "Coffee machine": [
+    "tea",
+    "latte macchiato",
+    "espresso"
+  ],
+  "Coffee maker": [
+    "tea",
+    "filter",
+    "pot"
+  ],
+  "Colander": [
+    "pasta",
+    "draining"
+  ],
+  "Computer mouse": [
+    "keyboard",
+    "PC",
+    "cursor"
+  ],
+  "Computer tomograph": [
+    "Medicine",
+    "doctor",
+    "examination"
+  ],
+  "Computer": [
+    "PC",
+    "laptop",
+    "notebook",
+    "internet"
+  ],
+  "Contact lenses": [
+    "eye",
+    "glasses",
+    "see"
+  ],
+  "Corkscrew": [
+    "wine",
+    "food",
+    "restaurant",
+    "waiter"
+  ],
+  "Credit card": [
+    "money",
+    "plastic",
+    "EC",
+    "bank"
+  ],
+  "Cutlery": [
+    "knife",
+    "spoon",
+    "fork",
+    "food"
+  ],
+  "Cutting board": [
+    "knife",
+    "food",
+    "wood"
+  ],
+  "Digital camera": [
+    "smartphone",
+    "photo",
+    "computer"
+  ],
+  "Dish towels": [
+    "dry",
+    "dry",
+    "wet"
+  ],
+  "Dishes": [
+    "cutlery",
+    "plate",
+    "knife",
+    "fork"
+  ],
+  "Dishwasher": [
+    "hand wash",
+    "plate",
+    "cutlery"
+  ],
+  "Duster": [
+    "cleaning",
+    "cleaning"
+  ],
+  "Dustpan": [
+    "cleaning",
+    "broom",
+    "dirt"
+  ],
+  "DVD": [
+    "movie",
+    "player",
+    "television",
+    "CD"
+  ],
+  "Dynamo": [
+    "bicycle",
+    "lamp",
+    "electricity"
+  ],
+  "Egg cup": [
+    "chicken",
+    "breakfast",
+    "cooked"
+  ],
+  "Egg stove": [
+    "clock",
+    "chicken"
+  ],
+  "Egg timer": [
+    "cooking",
+    "time",
+    "pointer",
+    "chicken"
+  ],
+  "Exercise bike": [
+    "sport",
+    "muscle",
+    "workout"
+  ],
+  "Extension cord": [
+    "power",
+    "television",
+    "outlet"
+  ],
+  "Fan heater": [
+    "wind",
+    "warm",
+    "winter"
+  ],
+  "Fan": [
+    "wind",
+    "air",
+    "cool"
+  ],
+  "Feather duster": [
+    "cleaning",
+    "cleaning"
+  ],
+  "Flag": [
+    "flag",
+    "hoist",
+    "mast",
+    "flap"
+  ],
+  "Flashlight": [
+    "dark",
+    "light",
+    "batteries"
+  ],
+  "Fountain pen": [
+    "elementary school",
+    "write",
+    "ink"
+  ],
+  "Four-stroke engine": [
+    "car",
+    "ignition",
+    "cylinder"
+  ],
+  "Freezer": [
+    "refrigerator",
+    "ice",
+    "cold"
+  ],
+  "Garlic press": [
+    "Vampire",
+    "cut",
+    "food",
+    "Italy"
+  ],
+  "Gas turbine": [
+    "power plant",
+    "fart",
+    "electricity",
+    "airplane"
+  ],
+  "Gasoline engine": [
+    "diesel",
+    "car",
+    "cylinder",
+    "motorcycle"
+  ],
+  "Geiger counter": [
+    "atom",
+    "radiation",
+    "music"
+  ],
+  "Hair dryer \/ blow dryer": [
+    "warm",
+    "hot",
+    "air",
+    "shower",
+    "hair"
+  ],
+  "Hammer": [
+    "nail",
+    "wall",
+    "tool"
+  ],
+  "Hand vacuum cleaner": [
+    "foot",
+    "clean",
+    "cleaning",
+    "dirt"
+  ],
+  "Hard disk": [
+    "computer",
+    "PC",
+    "save",
+    "gigabyte"
+  ],
+  "Heat blanket": [
+    "heat",
+    "pillow",
+    "bed"
+  ],
+  "Heating pad": [
+    "winter",
+    "blanket",
+    "warm"
+  ],
+  "Helicopter": [
+    "rotor",
+    "fly",
+    "airplane"
+  ],
+  "High pressure cleaner": [
+    "PSI",
+    "Kärcher"
+  ],
+  "Home theater": [
+    "movie",
+    "projector",
+    "sound system",
+    "5.1"
+  ],
+  "Household scissors": [
+    "cutting",
+    "apartment"
+  ],
+  "Hovercraft": [
+    "water",
+    "airplane"
+  ],
+  "Humidifier": [
+    "dry",
+    "wet",
+    "wind",
+    "climate"
+  ],
+  "Hydrogen bomb": [
+    "atom",
+    "Einstein",
+    "USA",
+    "explosion"
+  ],
+  "Inkjet printer": [
+    "toner",
+    "paper",
+    "computer"
+  ],
+  "Iron": [
+    "Shirts",
+    "hot",
+    "smooth"
+  ],
+  "Ironing board": [
+    "shirts",
+    "hot",
+    "smooth",
+    "iron"
+  ],
+  "Jet engine": [
+    "fighter pilot",
+    "airplane",
+    "fighter jet",
+    "flying"
+  ],
+  "Jet plane": [
+    "jet",
+    "pilot",
+    "engine"
+  ],
+  "Kettle": [
+    "heat",
+    "tea",
+    "coffee"
+  ],
+  "Keyboard": [
+    "computer",
+    "keys",
+    "input"
+  ],
+  "Kitchen broom": [
+    "cleaning",
+    "sweeping"
+  ],
+  "Kitchen knife": [
+    "cut",
+    "food",
+    "prepare"
+  ],
+  "Kitchen scale": [
+    "food",
+    "weight",
+    "weigh"
+  ],
+  "Kitchen towels": [
+    "zewa",
+    "dry",
+    "stain",
+    "wipe"
+  ],
+  "Ladder": [
+    "climbing",
+    "roof"
+  ],
+  "Laser printer": [
+    "toner",
+    "ink",
+    "paper",
+    "computer"
+  ],
+  "Laundry basket": [
+    "dryer",
+    "carry",
+    "clothes"
+  ],
+  "Light bulb": [
+    "LED",
+    "wire",
+    "light"
+  ],
+  "Longplaying record": [
+    "CD",
+    "vinyl",
+    "music",
+    "sounds"
+  ],
+  "Makeup mirror": [
+    "make up",
+    "carnival",
+    "carnival"
+  ],
+  "Massager": [
+    "soothing",
+    "tension"
+  ],
+  "Monitor": [
+    "computer",
+    "display"
+  ],
+  "Mop": [
+    "mopping",
+    "bucket",
+    "water"
+  ],
+  "Mouse pad": [
+    "computer",
+    "rest",
+    "desk"
+  ],
+  "Multiple socket": [
+    "power",
+    "electricity",
+    "television"
+  ],
+  "Nail scissors": [
+    "fingers",
+    "feet",
+    "manicure"
+  ],
+  "Pacemaker": [
+    "ECG",
+    "infarction"
+  ],
+  "Padlock": [
+    "key",
+    "lock",
+    "cellar"
+  ],
+  "Personal scale": [
+    "fat",
+    "kilogram"
+  ],
+  "Phone": [
+    "long distance",
+    "cell phone",
+    "smart phone"
+  ],
+  "Pillow": [
+    "bed",
+    "sleep"
+  ],
+  "Plunger": [
+    "toilet",
+    "loo",
+    "blockage"
+  ],
+  "Pot": [
+    "tea",
+    "coffee",
+    "transport",
+    "glass"
+  ],
+  "Potato masher": [
+    "mash",
+    "potato"
+  ],
+  "Potato peeler": [
+    "potato"
+  ],
+  "Railroad": [
+    "steam",
+    "rails",
+    "locomotive"
+  ],
+  "Refrigerator": [
+    "freeze",
+    "food",
+    "cold"
+  ],
+  "Salad servers": [
+    "fork",
+    "spoon"
+  ],
+  "Satellite": [
+    "GPS",
+    "space"
+  ],
+  "Scrubber": [
+    "mop",
+    "cleaning",
+    "cleaning"
+  ],
+  "Sewing needle": [
+    "clothes",
+    "hole",
+    "repair"
+  ],
+  "Sewing thread": [
+    "clothes",
+    "hole",
+    "mending"
+  ],
+  "Shoe polisher": [],
+  "Shower curtain": [
+    "tub",
+    "bath",
+    "water"
+  ],
+  "Smartphone": [
+    "mobile",
+    "Apple",
+    "Samsung",
+    "mobile"
+  ],
+  "Solar cell": [
+    "house",
+    "roof",
+    "sun",
+    "electricity"
+  ],
+  "Soldering iron": [
+    "electronics",
+    "tinkering",
+    "building"
+  ],
+  "Spark plug": [
+    "car",
+    "engine",
+    "start"
+  ],
+  "Spray can": [
+    "graffiti",
+    "vandalism",
+    "paint"
+  ],
+  "Steam iron": [
+    "Shirts",
+    "hot",
+    "smooth"
+  ],
+  "Stirring spoon": [
+    "cake",
+    "baking"
+  ],
+  "Streetcar": [
+    "train",
+    "streetcar",
+    "transportation",
+    "public transportation"
+  ],
+  "Sunbed": [
+    "solarium",
+    "tan",
+    "tanning"
+  ],
+  "Tablecloth": [],
+  "Tank": [
+    "war",
+    "steel"
+  ],
+  "Tea pot": [
+    "vessel",
+    "pour"
+  ],
+  "Tea strainer": [
+    "coffee",
+    "brew"
+  ],
+  "Telegraph": [
+    "Telephone",
+    "telex"
+  ],
+  "Toaster": [
+    "bread",
+    "hot",
+    "reheat"
+  ],
+  "Toilet brush": [
+    "toilet",
+    "cleaning"
+  ],
+  "Toilet roll holder": [
+    "toilet",
+    "poop"
+  ],
+  "Toothbrush cup": [
+    "dentist",
+    "brush"
+  ],
+  "Touchpad": [
+    "iPad",
+    "smartphone",
+    "display",
+    "touch"
+  ],
+  "Transistor": [
+    "electronics"
+  ],
+  "Trash can": [
+    "garbage",
+    "garbage can",
+    "organic"
+  ],
+  "Tray": [
+    "food",
+    "transport",
+    "bring",
+    "waiter"
+  ],
+  "Trekking backpack": [
+    "hiking",
+    "transportation",
+    "camping",
+    "luggage"
+  ],
+  "TV": [
+    "boob tube",
+    "TV",
+    "RTL",
+    "ProSieben"
+  ],
+  "Typewriter": [
+    "obsolete",
+    "keys",
+    "paper"
+  ],
+  "USB cable": [
+    "power",
+    "mobile",
+    "smartphone",
+    "computer"
+  ],
+  "USB stick": [
+    "store",
+    "computer",
+    "PC",
+    "hard drive"
+  ],
+  "Vacuum cleaner": [
+    "cleaning",
+    "cleaning",
+    "vacuuming"
+  ],
+  "Wardrobe": [
+    "clothes",
+    "hang",
+    "closet"
+  ],
+  "Washer dryer": [
+    "machine",
+    "clothes",
+    "line"
+  ],
+  "Washing machine": [
+    "dryer",
+    "powder",
+    "fabric softener"
+  ],
+  "Waterbed": [
+    "sleep",
+    "night",
+    "pillow",
+    "comforter"
+  ],
+  "Watering can": [
+    "water",
+    "flowers",
+    "watering"
+  ],
+  "Whisk": [
+    "Egg",
+    "beat",
+    "metal"
+  ],
+  "12 Monkeys": [
+    "Bruce Willis",
+    "Thriller",
+    "Brad Pitt"
+  ],
+  "12 Years a Slave": [
+    "black man",
+    "United States",
+    "Drama"
+  ],
+  "2001: A Space Odyssey": [
+    "Stanley Kubrick",
+    "Sci Fi",
+    "HAL 9000",
+    "space"
+  ],
+  "A Beautiful Mind": [
+    "Russell Crowe",
+    "Ed Harris",
+    "CIA",
+    "schizophrenia",
+    "cryptography"
+  ],
+  "Alien": [
+    "Sigourney Weaver",
+    "UFO",
+    "space",
+    "horror"
+  ],
+  "American Beauty": [
+    "Kevin Spacey",
+    "Annette Bening",
+    "drama",
+    "rose"
+  ],
+  "American History X": [
+    "Edward Norton",
+    "neo-nazi",
+    "skinhead",
+    "Hitler",
+    "swastika"
+  ],
+  "Amélie": [
+    "Drama",
+    "Romance",
+    "Paris",
+    "France"
+  ],
+  "Apocalypse Now": [
+    "Francis Ford Coppola",
+    "Vietnam",
+    "helicopters",
+    "U.S. Army"
+  ],
+  "Back to the Future": [
+    "time travelling",
+    "Marty McFly",
+    "Doc Emmett Brown",
+    "DeLorean",
+    "Lorraine Baines"
+  ],
+  "Batman Begins": [
+    "Christian Bale",
+    "Joker",
+    "Gotham City",
+    "Dark Knight"
+  ],
+  "Ben Hur": [
+    "Charlton Heston",
+    "Jewish prince"
+  ],
+  "Braveheart": [
+    "Mel Gibson",
+    "Scotland",
+    "rebellion",
+    "King Edward I of England"
+  ],
+  "Casablanca": [
+    "Drama",
+    "Humphrey Bogart",
+    "Nazis",
+    "French Morocco"
+  ],
+  "Casino": [
+    "Drama",
+    "Robert De Niro",
+    "Martin Scorsese",
+    "Mafia",
+    "gambling"
+  ],
+  "Catch Me If You Can": [
+    "Comedy",
+    "Leonardo DiCaprio",
+    "Tom Hanks",
+    "PanAm",
+    "airplane pilot"
+  ],
+  "Citizen Kane": [
+    "Orson Welles",
+    "Drama",
+    "Rosebud",
+    "Charles Foster Kane"
+  ],
+  "City of God": [
+    "Drama",
+    "Rio de Janeiro",
+    "Brasil",
+    "photographer"
+  ],
+  "Das Boot": [
+    "Thriller",
+    "Wolfgang Petersen",
+    "Germany",
+    "World War II",
+    "u-boat"
+  ],
+  "Deadpool": [
+    "Action",
+    "Ryan Reynolds",
+    "red suit",
+    "mercenary"
+  ],
+  "Der Blade Runner": [
+    "Action",
+    "Sci Fi",
+    "Harrison Ford",
+    "original"
+  ],
+  "Der König der Löwen": [
+    "Disney",
+    "Simba",
+    "Timon",
+    "Pumba"
+  ],
+  "Die Hard": [
+    "Action",
+    "Bruce Willis",
+    "Nakatomi Plaza",
+    "christmas",
+    "German terrorists"
+  ],
+  "Django Unchained": [
+    "Action",
+    "Jamie Foxx",
+    "Quentin Tarantino",
+    "Leonardo DiCaprio",
+    "Mississippi"
+  ],
+  "Donnie Darko": [
+    "Drama",
+    "Jake Gyllenhaal",
+    "rabbit"
+  ],
+  "Downfall": [
+    "Drama",
+    "Adolf Hitler",
+    "World War II",
+    "Berlin bunker"
+  ],
+  "Fight Club": [
+    "Thriller",
+    "Rule number one",
+    "Brad Pitt",
+    "Edward Norton",
+    "underground"
+  ],
+  "Findet Nemo": [
+    "Disney",
+    "Pixar",
+    "Great Barrier Reef",
+    "orange clownfish",
+    "Marlin",
+    "Dory"
+  ],
+  "Forrest Gump": [
+    "Drama",
+    "Tom Hanks",
+    "Vietnam War",
+    "Baba",
+    "Shrimp",
+    "Football"
+  ],
+  "Full Metal Jacket": [
+    "Action",
+    "Stanley Kubrick",
+    "Vietnam War",
+    "Gny. Sgt. Hartman",
+    "R. Lee Ermey"
+  ],
+  "Gladiator": [
+    "Action",
+    "Roman General",
+    "Russell Crowe",
+    "slavery",
+    "Colosseum"
+  ],
+  "Gone with the Wind": [
+    "American Civil War",
+    "Drama",
+    "Romance",
+    "Clark Gable"
+  ],
+  "Good Will Hunting": [
+    "Drama",
+    "Robin Williams",
+    "Matt Damon",
+    "mathematics"
+  ],
+  "Goodfellas": [
+    "Drama",
+    "Robert De Niro",
+    "Mafia",
+    "Henry Hill"
+  ],
+  "Gran Torino": [
+    "Drama",
+    "Clint Eastwood",
+    "Korean War veteran",
+    "car"
+  ],
+  "Grand Budapest Hotel": [
+    "Comedy",
+    "Indie",
+    "Ralph Fiennes",
+    "lobby boy"
+  ],
+  "Guardians of the Galaxy": [
+    "Action",
+    "Marvel",
+    "Peter Quill",
+    "Groot",
+    "Star-Lord"
+  ],
+  "Harry Potter": [
+    "Witchcraft and Wizardry",
+    "Hogwarts",
+    "Ron & Hermine",
+    "Dumbledore",
+    "Voldemort"
+  ],
+  "How to Train Your Dragon": [
+    "Disney",
+    "Pixar",
+    "Viking"
+  ],
+  "Inception": [
+    "Action",
+    "Christopher Nolan",
+    "Leonardo DiCaprio",
+    "lucid dreaming",
+    "thoughts"
+  ],
+  "Indiana Jones and the Last Crusade": [
+    "Action",
+    "Indie",
+    "Harrison Ford",
+    "Sean Connery",
+    "Germany",
+    "World War II"
+  ],
+  "Inglourious Basterds": [
+    "Quentin Tarantino",
+    "Brad Pitt",
+    "World War II",
+    "U.S. Army",
+    "Nazis"
+  ],
+  "Inside Out": [
+    "Disney",
+    "feelings",
+    "emotions"
+  ],
+  "Interstellar": [
+    "Sci Fi",
+    "Matthew McConaughey",
+    "space",
+    "wormhole",
+    "black hole"
+  ],
+  "Into the Wild": [
+    "Drama",
+    "nature",
+    "camping",
+    "Christopher McCandless"
+  ],
+  "Jaws": [
+    "Thriller",
+    "shark",
+    "beach",
+    "surfing"
+  ],
+  "Jurassic Park": [
+    "dinosaurs",
+    "Steven Spielberg",
+    "T-Rex",
+    "John Hammond"
+  ],
+  "Kill Bill: Vol. 1": [
+    "Action",
+    "Quentin Tarantino",
+    "Uma Thurman",
+    "katana",
+    "yellow"
+  ],
+  "LA Confidential": [
+    "Thriller",
+    "Kevin Spacey",
+    "Los Angeles",
+    "police"
+  ],
+  "Lawrence of Arabia": [
+    "T.E. Lawrence",
+    "World War I",
+    "Peter O'Toole"
+  ],
+  "Lock, Stock and Two Smoking Barrels": [
+    "Guy Ritchie",
+    "Action",
+    "Comedy",
+    "Hatchet Harry"
+  ],
+  "Léon - Der Profi": [
+    "Drama",
+    "Jean Reno",
+    "Mathilda",
+    "professional assassin"
+  ],
+  "Mad Max: Fury Road": [
+    "Action",
+    "Tom Hardy",
+    "post-apocalyptic wasteland",
+    "Witness me"
+  ],
+  "Memento": [
+    "Christopher Nolan",
+    "short-term memory",
+    "murderer",
+    "Leonard"
+  ],
+  "Million Dollar Baby": [
+    "Drama",
+    "Clint Eastwood",
+    "professional boxing"
+  ],
+  "Monsters, Inc.": [
+    "Disney",
+    "Pixar",
+    "Mike",
+    "Sullivan",
+    "Boo"
+  ],
+  "Monty Python and the Holy Grail": [
+    "King Arthur",
+    "tis but a scratch",
+    "Knights of the Round Table",
+    "blue.. no, red! Aaaaah"
+  ],
+  "Monty Python's Life of Brian": [
+    "Comedy",
+    "Jesus Christ",
+    "Brian of Nazareth",
+    "People's Front of Judea",
+    "Holy Bible"
+  ],
+  "No Country for Old Men": [
+    "Drama",
+    "Tommy Lee Jones",
+    "drug dealing",
+    "Rio Grande"
+  ],
+  "Once Upon a Time in the West": [
+    "Henry Fonda",
+    "harmonica",
+    "wild west"
+  ],
+  "Pirates of the Caribbean": [
+    "Captain Jack Sparrow",
+    "Will Turner",
+    "Johnny Depp",
+    "Orlando Bloom"
+  ],
+  "Platoon": [
+    "Action",
+    "Vietnam War",
+    "Charlie Sheen",
+    "Chris Taylor"
+  ],
+  "Psycho": [
+    "Alfred Hitchcock",
+    "Thriller",
+    "bathroom",
+    "knife"
+  ],
+  "Pulp Fiction": [
+    "Quentin Tarantino",
+    "John Travolta",
+    "Samuel L. Jackson",
+    "dancing",
+    "Ezekiel 25:17"
+  ],
+  "Reservoir Dogs": [
+    "Action",
+    "jewelry heist",
+    "Quentin Tarantino"
+  ],
+  "Rocky": [
+    "Sylvester Stallone",
+    "heavyweight boxing champion",
+    "Eye of the tiger"
+  ],
+  "Saving Private Ryan": [
+    "War",
+    "Normandy",
+    "U.S. Army",
+    "Captain Miller",
+    "Tom Hanks",
+    "Matt Damon"
+  ],
+  "Scarface": [
+    "Action",
+    "Tony Montana",
+    "drug dealer",
+    "Miami",
+    "drug cartel"
+  ],
+  "Schindler's List": [
+    "Drama",
+    "Biography",
+    "Liam Neeson",
+    "World War II",
+    "Nazis"
+  ],
+  "Se7en": [
+    "Thriller",
+    "Morgan Freeman",
+    "Brad Pitt",
+    "serial killer",
+    "deadly sins"
+  ],
+  "Shining": [
+    "Thriller",
+    "Stanley Kubrick",
+    "Jack Nicholson",
+    "hotel",
+    "axe"
+  ],
+  "Shutter Island": [
+    "Thriller",
+    "Leonardo DiCaprio",
+    "Teddy Daniels",
+    "Andrew Laeddis",
+    "Ashecliffe Hospital",
+    "psychiatry"
+  ],
+  "Sin City": [
+    "Action",
+    "black white",
+    "red",
+    "Bruce Willis",
+    "blood"
+  ],
+  "Star Wars: Episode IV - A New Hope": [
+    "Luke Skywalker",
+    "Jedi",
+    "Yoda",
+    "Han Solo",
+    "Darth Vader",
+    "Princess Leia"
+  ],
+  "Taxi Driver": [
+    "Martin Scorsese",
+    "Drama",
+    "cab",
+    "New York City"
+  ],
+  "The Avengers": [
+    "Action",
+    "Marvel",
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Black Widow"
+  ],
+  "The Big Lebowski": [
+    "Drama",
+    "The Dude",
+    "bowling",
+    "Jeff Bridges",
+    "Moscow mule"
+  ],
+  "The Bourne Ultimatum": [
+    "Action",
+    "CIA",
+    "Jason Bourne",
+    "assassination"
+  ],
+  "The Dark Knight": [
+    "Christian Bale",
+    "Joker",
+    "Gotham City",
+    "Batman"
+  ],
+  "The Departed": [
+    "Thriller",
+    "Leonardo DiCaprio",
+    "Matt Damon",
+    "South Boston"
+  ],
+  "The Godfather": [
+    "Thriller",
+    "Marlon Brando",
+    "Mafia",
+    "Don Vito Corleone",
+    "offer you can't refuse"
+  ],
+  "The Good, the Bad and the Ugly": [
+    "Clint Eastwood",
+    "wild west",
+    "cowboys"
+  ],
+  "The Great Dictator": [
+    "Charles Chaplin",
+    "silent film",
+    "Comedy",
+    "Hitler",
+    "Nazi"
+  ],
+  "The Green Mile": [
+    "Drama",
+    "Stephen King",
+    "Tom Hanks",
+    "Death Row"
+  ],
+  "The Intouchables": [
+    "Drama",
+    "Omar Sy",
+    "quadriplegic",
+    "Driss & Philippe",
+    "wheelchair"
+  ],
+  "The Lives of Others": [
+    "Drama",
+    "Germany",
+    "DDR",
+    "Stasi",
+    "East Berlin"
+  ],
+  "The Lord of the Rings": [
+    "One Ring",
+    "Frodo & Sam",
+    "Hobbit",
+    "Gandalf",
+    "Middle Earth",
+    "J.R.R. Tolkien"
+  ],
+  "The Martian": [
+    "Bring him Home",
+    "space",
+    "Matt Damon",
+    "astronaut",
+    "NASA"
+  ],
+  "The Matrix": [
+    "green",
+    "Neo",
+    "Morpheus",
+    "Agent Smith",
+    "Keanu Reeves"
+  ],
+  "The Pianist": [
+    "Drama",
+    "Adrien Brody",
+    "Polish Jewish musician",
+    "World War II",
+    "keyboard"
+  ],
+  "The Revenant - Der Rückkehrer": [
+    "Drama",
+    "Leonardo DiCaprio",
+    "Oscar",
+    "wilderness survival",
+    "bear"
+  ],
+  "The Shawshank Redemption": [
+    "Drama",
+    "Tim Robbins",
+    "Morgan Freeman",
+    "imprisoned men",
+    "escape"
+  ],
+  "The Silence of the Lambs": [
+    "Anthony Hopkins",
+    "Jodie Foster",
+    "Dr. Hannibal Lecter",
+    "cannibal"
+  ],
+  "The Sixth Sense": [
+    "Drama",
+    "spirits",
+    "child psychologist",
+    "Bruce Willis"
+  ],
+  "The Terminator": [
+    "Action",
+    "Arnold Schwarzenegger",
+    "time traveling",
+    "I am back"
+  ],
+  "The Truman Show": [
+    "Drama",
+    "live",
+    "Jim Carrey",
+    "reality TV show",
+    "cameras"
+  ],
+  "The Usual Suspects": [
+    "Drama",
+    "Kevin Spacey",
+    "gun battle",
+    "police lineup"
+  ],
+  "The Wizard of Oz": [
+    "Adventure",
+    "Dorothy Gale",
+    "wizard",
+    "Judy Garland",
+    "Fantasy"
+  ],
+  "The Wolf of Wall Street": [
+    "Drama",
+    "Comedy",
+    "Leonardo DiCaprio",
+    "penny stocks",
+    "Jordan Belfort"
+  ],
+  "Toy Story": [
+    "Disney",
+    "Pixar",
+    "Woody",
+    "Buzz Lightyear",
+    "Sid"
+  ],
+  "Up": [
+    "Disney",
+    "Pixar",
+    "Carl Fredricksen",
+    "house",
+    "balloons"
+  ],
+  "V for Vendetta": [
+    "Action",
+    "freedom fighter",
+    "Hugo Weaving",
+    "Guy Fawkes mask"
+  ],
+  "WALL·E": [
+    "Disney",
+    "Pixar",
+    "robots",
+    "Eve",
+    "space"
+  ],
+  "Zootopia": [
+    "Disney",
+    "Pixar",
+    "animals",
+    "rabbit",
+    "police"
+  ]
+}
