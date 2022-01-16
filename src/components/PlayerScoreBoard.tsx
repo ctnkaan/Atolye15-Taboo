@@ -22,14 +22,35 @@ const useStyles = makeStyles(() => ({
 interface PlayerData {
     teamName: string;
     score: number;
+    turn: boolean;
 }
 
 function PlayerScoreBoard(props :PlayerData) {
     const classes = useStyles();
 
+    const isItMyTurn = () => {
+        //false == Team A
+        //true == Team B
+        if(props.turn) {
+            if(props.teamName === "Team A") {
+                return false;
+            }
+
+            if(props.teamName === "Team B") {
+                return true;
+            }
+        }
+        else if(props.teamName === "Team A")
+            return true;
+
+        return false;
+    }
+
+    
+
     return (
         <div>
-            <Card className={classes.playerCard}>
+            <Card style={{backgroundColor:isItMyTurn() ? "green": "white"}} className={classes.playerCard}>
                 <h1 className={classes.playerName}>{props.teamName}</h1>
                 <h2>{props.score}</h2>
             </Card>
