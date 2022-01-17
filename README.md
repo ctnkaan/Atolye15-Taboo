@@ -41,6 +41,8 @@ I have used MaterialUI a ton and it's by far my most comfortable front-end compo
 
 ### Why are the CSS files pretty empty ?
 I mostly used MaterialUI's "makeStyles" function to write my CSS inside the React Component. It's same as writing it to an CSS file. I wanted to also include some small CSS files in styles folder so I can show that I can work both ways.
+![image](https://user-images.githubusercontent.com/59853931/149703938-436ba690-0863-46aa-a507-bff9a7d9a37a.png)
+
 
 ### Why did you want to use Typescript ?
 Typescript is one of the most popular languages in the world of web development. It basically solves the problems of Javascript, most of them being detecting bugs. I noticed that Typescript is massively popular in Atölye so I wanted to use it.
