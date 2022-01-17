@@ -2,26 +2,37 @@ import React from 'react'
 import useCountDown from 'react-countdown-hook';
 import { makeStyles } from "@material-ui/core/styles";
 
-
-const initialTime = 20000; // initial time in milliseconds, defaults to 60000
-const interval = 1000; // interval to change remaining time amount, defaults to 1000
+//milliseconds
+const initialTime = 60000; 
+const interval = 1000;
 
 
 //Material UI Stles
 const useStyles = makeStyles((theme: any) => ({
     timer: {
-        fontSize: "2.5rem",
+        borderRadius: "50%",
+        width: "10rem",
+        height: "10rem",
+        textAlign: "center",
+        fontSize: "3.2rem",
         fontWeight: "bold",
         color: "white",
-        textAlign: "center",
-        margin: "0",
+        backgroundColor: "black",
+        margin: "0 auto",
+        marginTop: "2.5%",
         padding: "0",
-        marginTop: "1rem",
     }
 }));
 
+interface Props {
+    open: boolean;
+    setTurn: Function;
+    turn: boolean;
+    handleClose: Function;
+}
 
-function Timer({open, setTurn, turn, handleClose}: {open: boolean, setTurn: Function, turn: boolean, handleClose: Function}) {
+
+function Timer(props: Props) {
 
     const classes = useStyles();
 
@@ -29,20 +40,22 @@ function Timer({open, setTurn, turn, handleClose}: {open: boolean, setTurn: Func
 
     //Next teams turn
     const handleTurn = () => {
-        setTurn(!turn)
+        props.setTurn(!props.turn)
     }
 
+    //Start the timer when the modal opens
     React.useEffect(() => {
-        if (open)
+        if (props.open)
             start();
-    }, [open, start]);
+    }, [props.open, start]);
+
 
     //switch teams when timeleft hits 0
     React.useEffect(() => {
         if (timeLeft === 0) {
             reset();
             handleTurn();
-            handleClose();
+            props.handleClose();
         }
     // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [timeLeft, reset]);
@@ -51,8 +64,8 @@ function Timer({open, setTurn, turn, handleClose}: {open: boolean, setTurn: Func
 
 
     return (
-        <div className={classes.timer}>
-            {timeLeft / 1000}
+        <div data-testid="timer-card" className={classes.timer}>
+            <h1 data-testid="timer-h1">{timeLeft / 1000}</h1>
         </div>
     )
 }

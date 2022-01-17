@@ -1,0 +1,11 @@
+.cardPlaceholder {
+    @media screen and (min-width: 500px) {
+        background-color: "transparent";
+        border: "2px solid black";
+        width: "25%";
+        height: "170px";
+        left: "37%";
+        top: "35%";
+        position: "absolute";
+    }
+}

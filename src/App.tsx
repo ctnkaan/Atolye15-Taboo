@@ -9,6 +9,7 @@ import WordsJSON from './words.json'
 import TeamScore from './components/PlayerScoreBoard';
 import Timer from './components/Timer';
 import './styles/App.css';
+import CardPlaceholder from './components/CardPlaceholder';
 
 //Material UI Stles
 const useStyles = makeStyles((theme: any) => ({
@@ -65,11 +66,12 @@ const useStyles = makeStyles((theme: any) => ({
         border: "2px solid #000",
         boxShadow: theme.shadows[5],
         padding: theme.spacing(2, 4, 3),
+        textAlign: "left",
     },
 }));
 
 //This function gets a random value between 0 and the length of the JSON file. It always get unique values.
-function getRandomValue() {
+const getRandomValue = () => {
     let randNum :number = 0;
     do {
         randNum = Math.floor(Math.random() * keysArr.length);
@@ -115,6 +117,10 @@ function App() {
     const [teamA, setTeamA] = React.useState(0);
     const [teamB, setTeamB] = React.useState(0);
 
+    //Keeps track of the number of passes
+    const [pass, setPass] = React.useState(0);
+
+
     //Modal Opens
     const handleOpen = () => {
         setOpen(true);
@@ -133,8 +139,6 @@ function App() {
                 alert("Game Over. Team A Wins!");
             else if (teamB > teamA)
                 alert("Game Over. Team B Wins!");
-            else
-                alert("Game Over. It's a tie!");
 
             window.location.reload();
         }
@@ -152,7 +156,6 @@ function App() {
 
     //Click on Guessed button
     const handleGuessed = () => {
-
         if (!turn)
             setTeamA(teamA + 1);
         else if (turn)
@@ -162,17 +165,29 @@ function App() {
         handleOpen();
     }
 
+    //Click on Pass button
+    const handlePass = () => {
+        setPass(pass + 1);
+
+        handleClose();
+        handleOpen();
+    }
+
     return (
         <div className="App">
 
-            <h1 className={classes.title}>Taboo Game</h1>
+            <h1 data-testid="title-test" className={classes.title}>Taboo Game</h1>
 
             <Box className={classes.buttonBox}>
-                <Button onClick={handleOpen} className={classes.startButton} variant="contained" color="success">Start Round!</Button>
+                <Button data-testid="start-button" onClick={handleOpen} className={classes.startButton} variant="contained" color="success">Start Round!</Button>
             </Box>
 
             {
-                turn ? <h3 className={classes.turnText}>-------- Team B's Turn -------- </h3> : <h3 className={classes.turnText}>-------- Team A's Turn --------</h3>
+                turn 
+                ? 
+                <h3 data-testid="turn-text" className={classes.turnText}>------- Team B's Turn -------</h3>
+                : 
+                <h3 data-testid="turn-text" className={classes.turnText}>------- Team A's Turn -------</h3>
             }
             
             <Modal
@@ -181,7 +196,7 @@ function App() {
                 aria-describedby="modal-modal-description"
             >
                 <Box className={classes.modal}>
-                    <Typography variant="h6" id="modal-modal-title">
+                    <Typography style={{textAlign:"center"}} variant="h6" id="modal-modal-title">
                         {currentWord}
                     </Typography>
                     <ul>
@@ -192,7 +207,7 @@ function App() {
                         }
                     </ul>
                     <div className={classes.buttonDiv}>
-                        <Button onClick={handleClose} variant="contained" color="primary">Pass</Button>
+                        <Button onClick={handlePass} variant="contained" color="primary">Pass</Button>
                         <Button onClick={handleGuessed} variant="contained" color="success">Guessed</Button>
                         <Button onClick={handleTaboo} variant="contained" color="error">Taboo</Button>
                     </div>
@@ -200,9 +215,14 @@ function App() {
                 </Box>
             </Modal>
 
+            {/*Team A's and Team B's Score Boards*/}
             <TeamScore teamName="Team A" score={teamA} turn={turn}/>
             <TeamScore teamName="Team B" score={teamB} turn={turn}/>
+        
+            {/*Card Placeholder art*/}
+            {window.innerWidth > 500 ? <CardPlaceholder /> : null}
 
+            {/*Timer that keeps track of the round*/}
             <Timer open={open}  setTurn={setTurn} turn={turn} handleClose={handleClose}/>
 
         </div>

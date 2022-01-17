@@ -50,9 +50,9 @@ function PlayerScoreBoard(props :PlayerData) {
 
     return (
         <div>
-            <Card style={{backgroundColor:isItMyTurn() ? "green": "white"}} className={classes.playerCard}>
-                <h1 className={classes.playerName}>{props.teamName}</h1>
-                <h2>{props.score}</h2>
+            <Card data-testid="playerSB-card" style={{backgroundColor:isItMyTurn() ? "green": "white"}} className={classes.playerCard}>
+                <h1 data-testid="playerSB-h1" className={classes.playerName}>{props.teamName}</h1>
+                <h2 data-testid="playerSB-h2">{props.score}</h2>
             </Card>
         </div>
     )
