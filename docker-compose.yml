@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+
+  taboo:
+    container_name: taboo_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/src'
+      - '/node_modules'
+    ports:
+      - 3001:3000
+    environment:
+      - CHOKIDAR_USEPOLLING=true
