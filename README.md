@@ -1,46 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+	<img src="https://avatars.githubusercontent.com/u/1424101?s=280&v=4" width=300px height=300px>
+	<h1 align="center"> Atölye15 Internship Bootcamp Project: Taboo </h1>
+		<p align="center">
+			<b>This is the GitHub repository of my frontend project Taboo Game. Hope you like it!</b> 
+		</p>  
+</p>
 
-## Available Scripts
+## About :
 
-In the project directory, you can run:
+This project aims to recreate the popular and fun part game Taboo. It is best played in a party face to face. Each team has 60 seconds to guess as many words without using the taboo words. After the 60 seconds is over if a team has passed 20 points they are declared the winners! Players have 3 actions. Pass, Guessed and Taboo.
 
-### `yarn start`
+<b>Pass:</b> Skips the question to get a new one. No points are lost. <br>
+<b>Guessed:</b> Pressed when a player guesses the word correctly. That team gets 1 point. <br>
+<b>Taboo:</b> Pressed when a player says a taboo word. That team gets -1 point. <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![image](https://user-images.githubusercontent.com/59853931/149701972-d964b07b-b4a3-4f14-8971-dd751d5319f1.png)
+![image](https://user-images.githubusercontent.com/59853931/149702048-afd18f64-fadb-4645-9a03-0c5f9ba6be1c.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Technologies Used
+- React
+- Typescript 
+- HTML
+- CSS
+- MaterialUI
+- Jest
+- React-Testing-Library
+- Yarn
+- Docker
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Q&A With Myself
 
-### `yarn build`
+### Why MaterialUI ?
+I have used MaterialUI a ton and it's by far my most comfortable front-end component library. I know in Atölye it's not that commonly used but I decided to go with the best I know with. I also love how MaterialUI allows me to write CSS inside the React component.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Why are the CSS files pretty empty ?
+I mostly used MaterialUI's "makeStyles" function to write my CSS inside the React Component. It's same as writing it to an CSS file. I wanted to also include some small CSS files in styles folder so I can show that I can work both ways.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Why did you want to use Typescript ?
+Typescript is one of the most popular languages in the world of web development. It basically solves the problems of Javascript, most of them being detecting bugs. I noticed that Typescript is massively popular in Atölye so I wanted to use it.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Why did you write a docker file ?
+I thought using Docker would solve the "But it works on my machine" problem. I also love DevOps and I want to use Docker any time I can so I can learn more about it.
 
-### `yarn eject`
+### Did you have fun ?
+Yes I did have a ton of fun developing this. I always wanted to develop a party card game for my friends. Now I can have any kind of guessing game with just changing the JSON file.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Running the Project using Node.js
+1. clone the project using git clone
+2. run yarn or yarn install
+3. run yarn start
+4. go to localhost:3000
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Running the Project using Docker
+1. clone the project using git clone
+2. run docker-compose up --build
+3. go to localhost:3001
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![image](https://user-images.githubusercontent.com/59853931/149702490-4978f152-89e5-4d67-a34d-8789d77ca3ff.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Test Results
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://user-images.githubusercontent.com/59853931/149701917-21cc190a-aec5-45b7-8c84-82596f865c33.png)
