@@ -15,6 +15,10 @@ This project aims to recreate the popular and fun part game Taboo. It is best pl
 <b>Guessed:</b> Pressed when a player guesses the word correctly. That team gets 1 point. <br>
 <b>Taboo:</b> Pressed when a player says a taboo word. That team gets -1 point. <br>
 
+<h4>My way of getting unique data from JSON <h4> <br>
+	
+I stored the keys and values from the JSON file in separate arrays. I used a function that generates a random number between 0 and the length of the keys array. Then I store those numbers in an hashmap so i can do a constant lookup if we've already seen the number. I used a do while loop to check if the random num is in seenWordsArray.
+
 ![image](https://user-images.githubusercontent.com/59853931/149701972-d964b07b-b4a3-4f14-8971-dd751d5319f1.png)
 ![image](https://user-images.githubusercontent.com/59853931/149702048-afd18f64-fadb-4645-9a03-0c5f9ba6be1c.png)
 
